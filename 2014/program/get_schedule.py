@@ -21,7 +21,7 @@ else:
 
 def clean(text):
     text = text.strip().replace("_", r"\_").replace("&", r"\&")
-    text = text.replace("é", "{\'e}")
+    text = text.replace("é", r"{\'e}")
     if text.startswith("'''") and text.endswith("''':"):
         #Triple single-quotes for bold
         return r"\textbf{%s}:" % text[3:-4].strip()
