@@ -1,5 +1,6 @@
-\documentclass[10pt,oneside]{article}
+\documentclass[12pt,oneside]{article}
 \usepackage[margin=2cm]{geometry}
+\usepackage{multirow}
 \usepackage{graphicx}
 \usepackage[colorlinks=true,citecolor=black,urlcolor=blue]{hyperref}
 
@@ -15,7 +16,7 @@
 \lhead{Bioinformatics Open Source Conference (BOSC) 2014\\Boston}
 \rhead{\includegraphics[height=1cm]{../../logos/100px-Pear.png}}
 
-\newcommand{\session}[3]{\lhead{BOSC 2014 -- \textit{#1}\\#2\\Session chair: #3}\newpage}
+\newcommand{\session}[3]{\clearpage\lhead{BOSC 2014 -- \textit{#1}\\#2\\#3}\newpage}
 
 \title{%Hack to get the logo on the PDF front page:
 \vspace{4cm}
@@ -38,14 +39,51 @@ TODO - Sponsors and logos!
 
 \thispagestyle{empty}
 
-\session{Genome-scale Data and Beyond}{Day One, 11 July 2014, 10:45 -- 12:30}{Chris Fields}
+\session{CodeFest}{Pre-BOSC, 9 \& 10 July 2014}{Organisers: Brad Chapman \& Michael Heuer}
+
+\noindent
+As in recent years, for the two days before BOSC we are holding the
+BOSC CodeFest, an informal ``Coding Festival'' or mini-hackathon:
+\url{http://www.open-bio.org/wiki/Codefest_2014}
+
+\begin{center}
+\includegraphics[width=4cm]{../../logos/Hack-reduce-logo.png}
+\end{center}
+
+\noindent
+The BOSC CodeFest 2014 is being hosted by \href{http://www.hackreduce.org/}{hack/reduce},
+a wonderful hacker space in Cambridge.
+
+\begin{center}
+\includegraphics[width=5cm]{../../logos/150px-Aws-logo.jpeg}
+\end{center}
+
+\noindent
+Thanks to \href{http://aws.amazon.com/}{Amazon Web Services} all participants will receive a $\$100$
+AWS credit to support work at the hackathon.
+
+\begin{center}
+\begin{tabular}{cc}
+\multirow{2}{*}{\raisebox{\dimexpr-\height+\ht\strutbox}{\includegraphics[height=3cm]{../../logos/Harbinger-Partners.png}}} &
+\raisebox{\dimexpr-\height+\ht\strutbox}{\includegraphics[width=4cm]{../../logos/Curoverse.png}} \\
+& \raisebox{\dimexpr-\height+\ht\strutbox}{\includegraphics[width=4cm]{../../logos/Arvados.png}}
+\end{tabular}
+\end{center}
+
+\noindent
+The CodeFest has also been sponsored by \href{http://harbinger-partners.com/}{Harbinger Partners, Inc.}
+and \href{https://curoverse.com/}{Curoverse} (the team behind the open source platform
+\href{http://arvados.org/}{Arvados}).
+
+\newpage
+\session{Genome-scale Data and Beyond}{Day One, 11 July 2014, 10:45 -- 12:30}{Session chair: Chris Fields}
 \embed{2.5cm}{10cm}{2.5cm}{2.5cm}{GenomeScale-16-ADAM.pdf}
 \embed{2.5cm}{10cm}{2.5cm}{2.5cm}{GenomeScale-32-Framework-RNASeq.pdf}
 \embed{2.5cm}{5cm}{2cm}{2.5cm}{GenomeScale-27-SPADES.pdf}
 \embed{2cm}{2.5cm}{1cm}{2.5cm}{GenomeScale-22-SigSeeker.pdf}
 \embed{2.5cm}{3cm}{1.5cm}{2.5cm}{GenomeScale-21-Galaxy-extending.pdf}
 
-\session{Visualization}{Day One, 11 July 2014, 14:00 -- 15:30}{Rob Davey}
+\session{Visualization}{Day One, 11 July 2014, 14:00 -- 15:30}{Session chair: Rob Davey}
 
 \embed{2.5cm}{2.75cm}{1cm}{2.5cm}{Visualization-39-WormGUIDES.pdf}
 \embed{3cm}{10cm}{3cm}{2.5cm}{Visualization-05-BioJS.pdf}
@@ -53,7 +91,7 @@ TODO - Sponsors and logos!
 \embed{2cm}{2.5cm}{0cm}{2.5cm}{Visualization-17-TGAC-browser.pdf}
 \embed{2.5cm}{10cm}{2.5cm}{2.5cm}{Visualization-38-IGB.pdf}
 
-\session{Bioinformatics Open Source Project Updates}{Day One, 11 July 2014, 16:00 -- 17:00}{Peter Cock}
+\session{Bioinformatics Open Source Project Updates}{Day One, 11 July 2014, 16:00 -- 17:00}{Session chair: Peter Cock}
 
 \embed{2.5cm}{8cm}{2.5cm}{2.5cm}{Updates-20-BioMart.pdf}
 \embed{2.5cm}{3cm}{1cm}{2.5cm}{Updates-25-Biocaml.pdf}
@@ -61,7 +99,7 @@ TODO - Sponsors and logos!
 \embed{2cm}{1.5cm}{0cm}{1cm}{Updates-19-Biopython.pdf}
 \embed{2.25cm}{3cm}{1.5cm}{2.5cm}{Updates-02-UGENE.pdf}
 
-\session{Software Interoperability}{Day Two, 12 July 2014, 10:45 -- 12:30}{Raoul Bonnal}
+\session{Software Interoperability}{Day Two, 12 July 2014, 10:45 -- 12:30}{Session chair: Raoul Bonnal}
 
 \embed{2.5cm}{3cm}{1.5cm}{2.5cm}{Interoperability-04-Pathview.pdf}
 \embed{2.5cm}{2.5cm}{1cm}{2.5cm}{Interoperability-13-Mobyle2.pdf}
@@ -69,7 +107,7 @@ TODO - Sponsors and logos!
 \embed{2.5cm}{2.5cm}{0.5cm}{3.5cm}{Interoperability-14-Taverna-player.pdf}
 \embed{2.5cm}{2.5cm}{1.5cm}{3cm}{Interoperability-40-Small-Tools.pdf}
 
-\session{Open Science and Reproducible Research}{Day Two, 12 July 2014, 14:00 -- 15:30}{Hilmar Lapp}
+\session{Open Science and Reproducible Research}{Day Two, 12 July 2014, 14:00 -- 15:30}{Session chair: Hilmar Lapp}
 
 \embed{2.5cm}{10cm}{2cm}{2.5cm}{OpenScience-11-SEEK.pdf}
 \embed{2.5cm}{5cm}{2.5cm}{2.5cm}{OpenScience-31-Arvados.pdf}
