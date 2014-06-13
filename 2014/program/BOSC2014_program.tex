@@ -1,7 +1,10 @@
 \documentclass[10pt,oneside]{article}
+\usepackage{fullpage} %for big margins
 \usepackage{graphicx}
 \usepackage[colorlinks=true,citecolor=black,urlcolor=blue]{hyperref}
-\usepackage{pdfpages}
+
+%Note omitted clip which allows anything within the 2cm trimming to still show
+\newcommand{\embed}[1]{\begin{center}\includegraphics[trim=2cm 2cm 2cm 2cm,width=\textwidth]{#1}\end{center}}
 
 \title{%Hack to get the logo on the PDF front page:
 \vspace{4cm}
@@ -28,54 +31,55 @@ TODO - Sponsors and logos!
 BOSC 2014: Day One, 11 July 2014, morning session 10:45 -- 12:30. \\
 \noindent Number of talks: Five (5) \\
 \noindent Session chair: Chris Fields
-\includepdf[pages={1}]{GenomeScale-16-ADAM.pdf}
-\includepdf[pages={1}]{GenomeScale-32-Framework-RNASeq.pdf}
-\includepdf[pages={1}]{GenomeScale-27-SPADES.pdf}
-\includepdf[pages={1}]{GenomeScale-22-SigSeeker.pdf}
-\includepdf[pages={1}]{GenomeScale-21-Galaxy-extending.pdf}
+
+\embed{GenomeScale-16-ADAM.pdf}
+\embed{GenomeScale-32-Framework-RNASeq.pdf}
+\embed{GenomeScale-27-SPADES.pdf}
+\embed{GenomeScale-22-SigSeeker.pdf}
+\embed{GenomeScale-21-Galaxy-extending.pdf}
 
 \newpage
 \section*{Visualization}
 BOSC 2014: Day One, 11 July 2014, afternoon session 14:00 -- 15:30. \\
 \noindent Number of talks: Five (5) \\
 \noindent Session chair: Rob Davey 
-\includepdf[pages={1}]{Visualization-39-WormGUIDES.pdf}
-\includepdf[pages={1}]{Visualization-05-BioJS.pdf}
-\includepdf[pages={1}]{Visualization-07-Biodalliance.pdf}
-\includepdf[pages={1}]{Visualization-17-TGAC-browser.pdf}
-\includepdf[pages={1}]{Visualization-38-IGB.pdf}
+\embed{Visualization-39-WormGUIDES.pdf}
+\embed{Visualization-05-BioJS.pdf}
+\embed{Visualization-07-Biodalliance.pdf}
+\embed{Visualization-17-TGAC-browser.pdf}
+\embed{Visualization-38-IGB.pdf}
 
 \newpage
 \section*{Bioinformatics Open Source Project Updates}
 BOSC 2014: Day One, 11 July 2014, afternoon session 16:00 -- 17:00. \\
 \noindent Number of talks: Five (5) \\
 \noindent Session chair: Peter Cock 
-\includepdf[pages={1}]{Updates-20-BioMart.pdf}
-\includepdf[pages={1}]{Updates-25-Biocaml.pdf}
-\includepdf[pages={1}]{Updates-41-BioRuby.pdf}
-\includepdf[pages={1}]{Updates-19-Biopython.pdf}
-\includepdf[pages={1}]{Updates-02-UGENE.pdf}
+\embed{Updates-20-BioMart.pdf}
+\embed{Updates-25-Biocaml.pdf}
+\embed{Updates-41-BioRuby.pdf}
+\embed{Updates-19-Biopython.pdf}
+\embed{Updates-02-UGENE.pdf}
 
 \newpage
 \section*{Software Interoperability}
 BOSC 2014: Day Two, 12 July 2014, morning session 10:45 -- 12:30. \\
 \noindent Number of talks: Five (5) \\
 \noindent Session chair: Raoul Bonnal 
-\includepdf[pages={1}]{Interoperability-04-Pathview.pdf}
-\includepdf[pages={1}]{Interoperability-13-Mobyle2.pdf}
-\includepdf[pages={1}]{Interoperability-34-OWL-computing.pdf}
-\includepdf[pages={1}]{Interoperability-14-Taverna-player.pdf}
-\includepdf[pages={1}]{Interoperability-40-Small-Tools.pdf}
+\embed{Interoperability-04-Pathview.pdf}
+\embed{Interoperability-13-Mobyle2.pdf}
+\embed{Interoperability-34-OWL-computing.pdf}
+\embed{Interoperability-14-Taverna-player.pdf}
+\embed{Interoperability-40-Small-Tools.pdf}
 
 \newpage
 \section*{Open Science and Reproducible Research }
 BOSC 2014: Day Two, 11 July 2014, afternoon session 14:00 -- 15:30, and 16:00-16:15. \\
 \noindent Number of talks: Five (5) plus one (1) after break before panel. \\
 \noindent Session chair: Hilmar Lapp
-\includepdf[pages={1}]{OpenScience-11-SEEK.pdf}
-\includepdf[pages={1}]{OpenScience-31-Arvados.pdf}
-\includepdf[pages={1}]{OpenScience-35-Galaxy-community.pdf}
-\includepdf[pages={1}]{OpenScience-23-Community-Pipelines.pdf}
-\includepdf[pages={1}]{OpenScience-26-Open-Tree-of-Life.pdf}
+\embed{OpenScience-11-SEEK.pdf}
+\embed{OpenScience-31-Arvados.pdf}
+\embed{OpenScience-35-Galaxy-community.pdf}
+\embed{OpenScience-23-Community-Pipelines.pdf}
+\embed{OpenScience-26-Open-Tree-of-Life.pdf}
 
 \end{document}
