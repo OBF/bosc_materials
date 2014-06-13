@@ -3,8 +3,8 @@
 \usepackage{graphicx}
 \usepackage[colorlinks=true,citecolor=black,urlcolor=blue]{hyperref}
 
-%Note omitted clip which allows anything within the 2cm trimming to still show
-\newcommand{\embed}[1]{\begin{center}\includegraphics[trim=2cm 2cm 2cm 2cm,width=\textwidth]{#1}\end{center}}
+%\newcommand{\embed}[5]{\begin{center}\fbox{\includegraphics[trim=#1 #2 #3 #4,clip,width=\textwidth]{#5}}\end{center}}
+\newcommand{\embed}[5]{\begin{center}\includegraphics[trim=#1 #2 #3 #4,clip,width=\textwidth]{#5}\end{center}}
 
 \title{%Hack to get the logo on the PDF front page:
 \vspace{4cm}
@@ -17,6 +17,7 @@ Talk Abstracts (Draft)}
 
 \begin{document}
 \pagestyle{empty}
+
 \maketitle
 
 \noindent For the latest schedule, please see:\\
@@ -32,54 +33,58 @@ BOSC 2014: Day One, 11 July 2014, morning session 10:45 -- 12:30. \\
 \noindent Number of talks: Five (5) \\
 \noindent Session chair: Chris Fields
 
-\embed{GenomeScale-16-ADAM.pdf}
-\embed{GenomeScale-32-Framework-RNASeq.pdf}
-\embed{GenomeScale-27-SPADES.pdf}
-\embed{GenomeScale-22-SigSeeker.pdf}
-\embed{GenomeScale-21-Galaxy-extending.pdf}
+\embed{2.5cm}{10cm}{2.5cm}{2.5cm}{GenomeScale-16-ADAM.pdf}
+\embed{2.5cm}{10cm}{2.5cm}{2.5cm}{GenomeScale-32-Framework-RNASeq.pdf}
+\embed{2.5cm}{5cm}{2cm}{2.5cm}{GenomeScale-27-SPADES.pdf}
+\embed{2cm}{2.5cm}{2cm}{2.5cm}{GenomeScale-22-SigSeeker.pdf}
+\embed{2cm}{3cm}{2cm}{2.5cm}{GenomeScale-21-Galaxy-extending.pdf}
 
 \newpage
 \section*{Visualization}
 BOSC 2014: Day One, 11 July 2014, afternoon session 14:00 -- 15:30. \\
 \noindent Number of talks: Five (5) \\
-\noindent Session chair: Rob Davey 
-\embed{Visualization-39-WormGUIDES.pdf}
-\embed{Visualization-05-BioJS.pdf}
-\embed{Visualization-07-Biodalliance.pdf}
-\embed{Visualization-17-TGAC-browser.pdf}
-\embed{Visualization-38-IGB.pdf}
+\noindent Session chair: Rob Davey
+
+\embed{2.5cm}{2.5cm}{2.5cm}{2.5cm}{Visualization-39-WormGUIDES.pdf}
+\embed{3cm}{10cm}{3cm}{2.5cm}{Visualization-05-BioJS.pdf}
+\embed{2.5cm}{10cm}{2.5cm}{2cm}{Visualization-07-Biodalliance.pdf}
+\embed{1.5cm}{2.5cm}{1.5cm}{2.5cm}{Visualization-17-TGAC-browser.pdf}
+\embed{2.5cm}{10cm}{2.5cm}{2.5cm}{Visualization-38-IGB.pdf}
 
 \newpage
 \section*{Bioinformatics Open Source Project Updates}
 BOSC 2014: Day One, 11 July 2014, afternoon session 16:00 -- 17:00. \\
 \noindent Number of talks: Five (5) \\
-\noindent Session chair: Peter Cock 
-\embed{Updates-20-BioMart.pdf}
-\embed{Updates-25-Biocaml.pdf}
-\embed{Updates-41-BioRuby.pdf}
-\embed{Updates-19-Biopython.pdf}
-\embed{Updates-02-UGENE.pdf}
+\noindent Session chair: Peter Cock
+
+\embed{2.5cm}{7cm}{2.5cm}{2.5cm}{Updates-20-BioMart.pdf}
+\embed{2.5cm}{3cm}{2cm}{2.5cm}{Updates-25-Biocaml.pdf}
+\embed{2.5cm}{2.5cm}{2.5cm}{3cm}{Updates-41-BioRuby.pdf}
+\embed{1.5cm}{1.5cm}{1.5cm}{1cm}{Updates-19-Biopython.pdf}
+\embed{2cm}{3cm}{2cm}{2.5cm}{Updates-02-UGENE.pdf}
 
 \newpage
 \section*{Software Interoperability}
 BOSC 2014: Day Two, 12 July 2014, morning session 10:45 -- 12:30. \\
 \noindent Number of talks: Five (5) \\
-\noindent Session chair: Raoul Bonnal 
-\embed{Interoperability-04-Pathview.pdf}
-\embed{Interoperability-13-Mobyle2.pdf}
-\embed{Interoperability-34-OWL-computing.pdf}
-\embed{Interoperability-14-Taverna-player.pdf}
-\embed{Interoperability-40-Small-Tools.pdf}
+\noindent Session chair: Raoul Bonnal
+
+\embed{2.5cm}{3cm}{2.5cm}{2.5cm}{Interoperability-04-Pathview.pdf}
+\embed{2.5cm}{2.5cm}{2cm}{2.5cm}{Interoperability-13-Mobyle2.pdf}
+\embed{2.5cm}{2cm}{2cm}{3cm}{Interoperability-34-OWL-computing.pdf}
+\embed{2cm}{2.5cm}{2cm}{3.5cm}{Interoperability-14-Taverna-player.pdf}
+\embed{2.5cm}{2.5cm}{2.5cm}{3cm}{Interoperability-40-Small-Tools.pdf}
 
 \newpage
 \section*{Open Science and Reproducible Research }
 BOSC 2014: Day Two, 11 July 2014, afternoon session 14:00 -- 15:30, and 16:00-16:15. \\
 \noindent Number of talks: Five (5) plus one (1) after break before panel. \\
 \noindent Session chair: Hilmar Lapp
-\embed{OpenScience-11-SEEK.pdf}
-\embed{OpenScience-31-Arvados.pdf}
-\embed{OpenScience-35-Galaxy-community.pdf}
-\embed{OpenScience-23-Community-Pipelines.pdf}
-\embed{OpenScience-26-Open-Tree-of-Life.pdf}
+
+\embed{2.5cm}{10cm}{2cm}{2.5cm}{OpenScience-11-SEEK.pdf}
+\embed{2.5cm}{5cm}{2.5cm}{2.5cm}{OpenScience-31-Arvados.pdf}
+\embed{2.5cm}{2.5cm}{2.5cm}{2.5cm}{OpenScience-35-Galaxy-community.pdf}
+\embed{2.5cm}{5cm}{2.5cm}{2.5cm}{OpenScience-23-Community-Pipelines.pdf}
+\embed{2.5cm}{3cm}{2.5cm}{3cm}{OpenScience-26-Open-Tree-of-Life.pdf}
 
 \end{document}
