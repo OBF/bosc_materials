@@ -7,6 +7,9 @@
 %\newcommand{\embed}[5]{\begin{center}\fbox{\includegraphics[trim=#1 #2 #3 #4,clip,width=\textwidth]{#5}}\end{center}\clearpage}
 \newcommand{\embed}[5]{\begin{center}\includegraphics[trim=#1 #2 #3 #4,clip,width=\textwidth]{#5}\end{center}\clearpage}
 
+\newcommand{\talkposter}[1]{\centerline{\small\noindent This talk is accompanied by poster \##1.}}
+\newcommand{\onlyposter}[1]{\centerline{\small\noindent Poster \##1.}}
+
 \usepackage{fancyhdr}
 \setlength\headheight{2cm}
 \fancyhead{}
@@ -282,6 +285,8 @@ Abstracts follow later in this document.
 \begin{center}
 \begin{tabular}{|p{2.35cm}|p{10.15cm}|p{4.1cm}|}
 \hline
+Time & Title & Author/Notes \\
+\hline
 \textbf{7:30-9:00} & \textbf{Registration} &\\
 \hline
 9:00-9:15 & Introduction and welcome &\\
@@ -322,6 +327,8 @@ Abstracts follow later in this document.
 \begin{center}
 \begin{tabular}{|p{2.35cm}|p{10.15cm}|p{4.1cm}|}
 \hline
+Time & Title & Author/Notes \\
+\hline
 \textit{16:00-17:00} & \textbf{\textit{Session: Project Updates}} & Chair: Peter Cock\\
 16:00-16:12 & BioMart 0.9 -- introducing tools for data analysis and visualisation & Luca Pandini\\
 16:12-16:24 & Biocaml: The OCaml Bioinformatics Library & Ashish Agarwal\\
@@ -352,6 +359,8 @@ Abstracts follow later in this document.
 
 \begin{center}
 \begin{tabular}{|p{2.35cm}|p{10.15cm}|p{4.1cm}|}
+\hline
+Time & Title & Author/Notes \\
 \hline
 8:45-8:50 & Announcements & \\
 8:50-9:00 & Codefest 2014 Report & Brad Chapman\\
@@ -394,21 +403,82 @@ followed by the poster-only abstracts.
 
 \section*{List of Posters}
 
-\textit{TODO...} (this will be our official poster number list!)
+\begin{center}
+\begin{tabular}{|r|p{10.5cm}|p{3.2cm}|p{2.5cm}|}
+\hline
+\# & Poster Title & Presenter & Talk Session \\
+\hline
+%Submission 16
+1 & ADAM: Fast, Scalable Genomic Analysis & Frank A. Nothaft & Genome Scale \\
+%Submission 27
+2 & New Frontiers of Genome Assembly with SPAdes 3.1 & Andrey Prjibelski & Genome Scale \\
+%Submission 22
+3 & SigSeeker: An Ensemble for Analysis of Epigenetic Data & Jens Lichtenberg & Genome Scale \\
+%Submission 39
+4 & WormGUIDES: an Interactive Informatic Developmental Atlas at Subcellular Resolution & Anthony Santella & Visualization \\
+%Submission 5
+5 & BioJS: an open source standard for biological visualisation & Manuel Corpas & Visualization \\
+%Submission 17
+6 & TGAC Browser: visualisation solutions for big data in the genomic era & Anil S. Thanki & Visualization \\
+%Submission 38
+7 & Explore, analyze, and share genomic data using Integrated Genome Browser & Ann Loraine & Visualization \\
+%Submission 2
+7 & Shared bioinformatics databases within Unipro UGENE & Ivan Protsyuk & Updates \\
+%Submission 42
+8 & A publication model that aligns with the key Open Source Software principles & Michael L Markie & Lightning \\
+%Submission 4
+9 & Pathview: an R/Bioconductor package for pathway-based data integration and visualization & Weijun Luo & Interop. \\
+%Submission 14
+10 & Integrating Taverna Player into Scratchpads & Robert Haines & Interop. \\
+%Submission 11
+11 & SEEK for Science: A Data Management Platform which Supports Open and Reproducible Science & Carole Goble & Open Science \\
+\hline
+%Submission 3
+12 & Using open source technology to extract biochemical data from big data repositories: the NCBI PubChem experience & Lewis Geer & Poster Only \\
+%Submission 6
+13 & Connecting computational steps for NGS, and beyond. & Laurent Gautier & Poster Only \\
+%Submission 8
+14 & Updates to MISO, the open-source NGS LIMS project & Xingdong Bian & Poster Only \\
+%Submission 12
+15 & Running Taverna Workflows within IPython Notebook & Alan Williams & Poster Only \\
+%Submission 18
+16 & Driver Mutation Pipeline and Visualization in Galaxy & Saket Choudhary & Poster Only \\
+%Submission 24
+16 & Reconstruction of ancestral genomes in presence of gene gain and loss & Shuai Jiang & Poster Only \\
+%Submission 28
+18 & Firehose in The Cancer Genome Atlas: Rigorous Open Science, At Scale & Michael S. Noble & Poster Only \\
+%Submission 30
+19 & GEPETTO Update: An Open Source Framework for Gene Prioritization & Hoan Nguyen & Poster Only \\
+%Submission 33
+20 & NeoPipe: An Open Source Framework for Protein sequence analysis & Hoan Nguyen & Poster Only \\
+%Submission 36
+21 & MyGene.info updates: scalable gene-centric web services with user contributions & Chunlei Wu & Poster Only \\
+%Submission 37
+22 & Aiding the journey from data to publication in the plant sciences & Robert Davey & Poster Only \\
+%Submission 45 & Bio2RDF mobile: an app for biological semantic web databases & Maxime D{\'e}raspe & Poster Only \\
+\hline
+\end{tabular}
+\end{center}
 
 \session{Genome-scale Data and Beyond}{Day One, 11 July 2014, 10:45 -- 12:30}{Session chair: Chris Fields}
+\talkposter{1}
 \embed{2.5cm}{10cm}{2.5cm}{2.5cm}{GenomeScale-16-ADAM.pdf}
 \embed{2.5cm}{10cm}{2.5cm}{2.5cm}{GenomeScale-32-Framework-RNASeq.pdf}
+\talkposter{2}
 \embed{2.5cm}{4cm}{2cm}{2.5cm}{GenomeScale-27-SPADES.pdf}
+\talkposter{3}
 \embed{2cm}{2.5cm}{1cm}{2.5cm}{GenomeScale-22-SigSeeker.pdf}
 \embed{2.5cm}{3cm}{1.5cm}{2.5cm}{GenomeScale-21-Galaxy-extending.pdf}
 
 \session{Visualization}{Day One, 11 July 2014, 14:00 -- 15:30}{Session chair: Rob Davey}
 
+\talkposter{4}
 \embed{2.5cm}{2.75cm}{1cm}{2.5cm}{Visualization-39-WormGUIDES.pdf}
+\talkposter{5}
 \embed{3cm}{10cm}{3cm}{2.5cm}{Visualization-05-BioJS.pdf}
 \embed{2.5cm}{11cm}{2.5cm}{2cm}{Visualization-07-Biodalliance.pdf}
 \embed{2cm}{2.5cm}{0cm}{2.5cm}{Visualization-17-TGAC-browser.pdf}
+\talkposter{6}
 \embed{2.5cm}{10cm}{2.5cm}{2.5cm}{Visualization-38-IGB.pdf}
 
 \session{Bioinformatics Open Source Project Updates}{Day One, 11 July 2014, 16:00 -- 17:00}{Session chair: Peter Cock}
@@ -417,6 +487,7 @@ followed by the poster-only abstracts.
 \embed{2.5cm}{3cm}{1cm}{2.5cm}{Updates-25-Biocaml.pdf}
 \embed{2cm}{2.5cm}{2cm}{3cm}{Updates-41-BioRuby.pdf}
 \embed{2cm}{1.5cm}{0cm}{1cm}{Updates-19-Biopython.pdf}
+\talkposter{7}
 \embed{2.25cm}{3cm}{1.5cm}{2.5cm}{Updates-02-UGENE.pdf}
 
 \session{Five Minute Lightning Talks}{Day One, 11 July 2014, 17:00 -- 17:30}{Session chair: Peter Cock}
@@ -424,18 +495,22 @@ followed by the poster-only abstracts.
 \embed{2.5cm}{14cm}{2.5cm}{2.5cm}{Lightning-43-ForsteringR.pdf}
 \embed{2.5cm}{3.5cm}{1.5cm}{2.5cm}{Lightning-46-Tripal.pdf}
 \embed{1cm}{2cm}{0cm}{2.5cm}{Lightning-10-PLUTo.pdf}
+\talkposter{8}
 \embed{2.5cm}{4.5cm}{0.5cm}{2.5cm}{Lightning-42-F1000.pdf}
 
 \session{Software Interoperability}{Day Two, 12 July 2014, 10:45 -- 12:30}{Session chair: Raoul Bonnal}
 
+\talkposter{9}
 \embed{2.5cm}{3cm}{1.5cm}{2.5cm}{Interoperability-04-Pathview.pdf}
 \embed{2.5cm}{2.5cm}{1cm}{2.5cm}{Interoperability-13-Mobyle2.pdf}
 \embed{2.5cm}{2.2cm}{1cm}{3cm}{Interoperability-34-OWL-computing.pdf}
+\talkposter{10}
 \embed{2.5cm}{2.5cm}{0.5cm}{3.5cm}{Interoperability-14-Taverna-player.pdf}
 \embed{2.5cm}{2.5cm}{1.5cm}{3cm}{Interoperability-40-Small-Tools.pdf}
 
 \session{Open Science and Reproducible Research}{Day Two, 12 July 2014, 14:00 -- 15:30}{Session chair: Hilmar Lapp}
 
+\talkposter{11}
 \embed{2.5cm}{10cm}{2cm}{2.5cm}{OpenScience-11-SEEK.pdf}
 \embed{2.5cm}{5cm}{2.5cm}{2.5cm}{OpenScience-31-Arvados.pdf}
 \embed{3cm}{2.5cm}{1cm}{2.5cm}{OpenScience-35-Galaxy-community.pdf}
@@ -444,28 +519,40 @@ followed by the poster-only abstracts.
 
 \session{Poster-only Abstracts}{Days One \& Two, 11 \& 12 July 2014, 13:00 -- 14:00}{}
 
+\onlyposter{12}
 \embed{2.5cm}{2.5cm}{0cm}{2.5cm}{PosterOnly-03-PubChem.pdf}
 %This info was missing from next PDF abstract...
 \noindent Author: Laurent Gautier\\
 Software Licence: 3-clause BSD \\
 Project URL: To be released by BOSC \\
 \embed{3cm}{15cm}{3cm}{4cm}{PosterOnly-06-ConnectingNGS.pdf}
+
+\onlyposter{13}
 \embed{3cm}{13cm}{3cm}{3.5cm}{PosterOnly-08-MISO.pdf}
+\onlyposter{14}
 \embed{2.5cm}{2cm}{0.5cm}{2.5cm}{PosterOnly-12-Taverna-IPython}
-\embed{1.25cm}{2.75cm}{0cm}{1.75cm}{PosterOnly-18-MutationPipeline}
-\embed{2.5cm}{2.5cm}{1cm}{2.5cm}{PosterOnly-24-ancestral-reconstruction.pdf}
-\embed{2.5cm}{5cm}{3cm}{2.5cm}{PosterOnly-28-Firehose.pdf}
+\onlyposter{15}
+\embed{1cm}{2.75cm}{0cm}{1.75cm}{PosterOnly-18-MutationPipeline}
+\onlyposter{16}
+\embed{2.5cm}{2.5cm}{0.5cm}{2.5cm}{PosterOnly-24-ancestral-reconstruction.pdf}
+\onlyposter{17}
+\embed{2.5cm}{5.2cm}{2.5cm}{2.5cm}{PosterOnly-28-Firehose.pdf}
+\onlyposter{18}
 \embed{2.5cm}{5cm}{0cm}{1.1cm}{PosterOnly-30-Gepetto.pdf}
+\onlyposter{19}
 \embed{2.5cm}{15cm}{2.5cm}{1.7cm}{PosterOnly-33-NeoPipe.pdf}
+\onlyposter{20}
 \embed{2.5cm}{1.5cm}{0cm}{2.5cm}{PosterOnly-36-MyGeneInfo.pdf}
-\embed{2.5cm}{5cm}{1cm}{2.5cm}{PosterOnly-37-Journey.pdf}
-\embed{2.5cm}{2.5cm}{1cm}{2.5cm}{PosterOnly-45-Bio2RDF.pdf}
+\onlyposter{21}
+\embed{2.5cm}{5.5cm}{1cm}{2.5cm}{PosterOnly-37-Journey.pdf}
+\onlyposter{22}
+\embed{2.5cm}{2.5cm}{0.5cm}{2.5cm}{PosterOnly-45-Bio2RDF.pdf}
 
 %\session{Open Bioinformatics Foundation Membership}{How to join the OBF officially.}{}
 %\embed{1.25cm}{1.5cm}{1.25cm}{2cm}{../../OBF_membership_form.pdf}
 \clearpage
 \pagestyle{empty}
-\embed{1cm}{1cm}{1cm}{2cm}{../../OBF_membership_form.pdf}
+\embed{1cm}{3.5cm}{1cm}{2cm}{../../OBF_membership_form.pdf}
 
 
 \end{document}
