@@ -30,7 +30,7 @@ def clean(text):
         return r"\textit{%s}:" % text[2:-3].strip()
     elif text.startswith("'''''") and text.endswith("'''''"):
         #Five single-quotes for bold italics
-        return r"\textbf{\\textit{%s}}" % text[5:-5].strip()
+        return r"\textbf{\textit{%s}}" % text[5:-5].strip()
     elif text.startswith("'''") and text.endswith("'''"):
         #Triple single-quotes for bold
         return r"\textbf{%s}" % text[3:-3].strip()
