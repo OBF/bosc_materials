@@ -104,8 +104,7 @@ def do_tabs(handle, fields, table):
             return
         day = {1: "2014/07/11", 2: "2014/07/12"}[table]
 
-    hacks = {"[[BOSC\\_2014\\_Keynote\\_Speakers|Keynote: A History of Bioinformatics (in the Year 2039)]]" : "A History of Bioinformatics (in the Year 20\
-39)",
+    hacks = {"[[BOSC\\_2014\\_Keynote\\_Speakers|Keynote: A History of Bioinformatics (in the Year 2039)]]" : "A History of Bioinformatics (in the Year 2039)",
 "[http://www.open-bio.org/wiki/Main\\_Page Open Bioinformatics Foundation (OBF) update]" : "Open Bioinformatics Foundation (OBF) update",
 "[[Codefest\\_2014 | Codefest 2014 Report]]": "Codefest 2014 Report",
 "| [[BOSC\\_2014\\_Keynote\\_Speakers|Keynote: Biomedical Research as an Open Digital Enterprise]]" : "Biomedical Research as an Open Digital Enterprise",
@@ -132,8 +131,23 @@ def do_tabs(handle, fields, table):
         poster = poster[1:-1]
 
     assert title not in ["", "]"], fields
+    #Manual cross-reference hacks
+    hacks2 = {"BioMart 0.9 - Introducing Tools for Data Analysis and Visualisation":
+"BioMart 0.9 – introducing tools for data analysis and visualisation",
+"SEEK for Science: A Data Management Platform which Supports Open and Reproducible Science":
+"SEEK for Science: A Data Management Platform which Supports Open and Reproducible Science.",
+"Arvados: Achieving Computational Reproducibility and Data Provenance in Large-Scale Genomic Analyses":
+"Arvados:  Achieving Computational Reproducibility and Data Provenance in Large-Scale Genomic Analyses",
+"Open as a Strategy for Durability, Reproducibility and Scalability":
+"Open as a strategy for durability, reproducibility and scalability",
+"Shared Bioinformatics Database Within Unipro UGENE":
+"Shared bioinformatics databases within Unipro UGENE",
+}
     try:
-        meta_data = meta[title.lower()]
+        if title in hacks2:
+            meta_data = meta[hacks2[title].lower()]
+        else:
+            meta_data = meta[title.lower()]
     except KeyError:
         sys.stderr.write("No OpenConf data for: %r\n" % title)
         meta_data = dict()
