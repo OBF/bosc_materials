@@ -1,0 +1,199 @@
+\documentclass[a4paper,12pt,oneside]{article}
+\usepackage[a4paper,margin=2cm,top=2cm]{geometry}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage[colorlinks=true,citecolor=black,urlcolor=blue]{hyperref}
+
+% Use the boxed version of the \embed command to guide trimming:
+% trim = left, bottom, right, top
+\newcommand{\embed}[5]{\begin{center}\fbox{\includegraphics[trim=#1 #2 #3 #4,clip,width=\textwidth]{#5}}\end{center}\clearpage}
+%\newcommand{\embed}[5]{\begin{center}\includegraphics[trim=#1 #2 #3 #4,clip,width=\textwidth]{#5}\end{center}\clearpage}
+
+\newcommand{\talkposter}[1]{\centerline{\small\noindent This talk is accompanied by poster \##1.}}
+\newcommand{\onlyposter}[1]{\centerline{\small\noindent Poster \##1.}}
+
+\usepackage{fancyhdr}
+\setlength\headheight{2cm}
+\fancyhead{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{1pt}
+\renewcommand{\footrulewidth}{0pt}
+%\rhead{\includegraphics[height=1cm]{../../logos/100px-Pear.png}}
+\lhead{Bioinformatics Open Source Conference (BOSC) 2016\\Boston}
+\rhead{\includegraphics[height=1.48cm]{../../2015/bosc_banner_cropped.png}}
+
+\newcommand{\session}[3]{\clearpage\lhead{BOSC 2016 -- \textit{#1}\\#2\\#3}\newpage}
+
+\title{%Hack to get the logo on the PDF front page:
+$16^{th}$ Annual \\
+Bioinformatics Open Source Conference\\
+BOSC 2016\\
+~\\
+\includegraphics[width=5cm]{../../logos/bosc-pear.pdf}\\
+%Hack to get some white space using a blank line:
+~\\
+\url{http://www.open-bio.org/wiki/BOSC_2016}
+}
+
+\date{8 \& 9 July 2016, Orlando, Florida, USA}
+
+\begin{document}
+\pagestyle{fancy}
+
+%\maketitle
+
+%\thispagestyle{empty}
+
+% trim = left, bottom, right, top
+
+\session{Workflows}{Day One, 8 July 2016, 10:45 -- 12:30}{Session chair: Brad Chapman}
+
+% Abstract 10 - GenomeSpace: Open source interoperability platform with crowd-sourced analysis recipes
+\talkposter{1}
+\embed{2.5cm}{6cm}{2.5cm}{2.5cm}{BOSC2016_a10_GenomeSpace.pdf}
+% Abstract 21 - This is Why We Can Have Nice Things: Getting to 1.0 of the Common Workflow Language
+\talkposter{2}
+\embed{2.5cm}{4cm}{2.5cm}{2.5cm}{BOSC2016_a21_CWL.pdf}
+% Abstract 24 - CWL in Practice: Experiences, challenges, and results from adopting Common Workflow Language
+\talkposter{3}
+\embed{2.5cm}{3cm}{2.5cm}{2.5cm}{BOSC2016_a24_CWL.pdf}
+% Abstract 17 - Using the Common Workflow Language (CWL) to run portable workflows with Arvados and Toil
+\embed{2.5cm}{2cm}{2cm}{2.5cm}{BOSC2016_a17_CWL_Arvados.pdf}
+% Abstract 28 - Planemo - A Scientific Workflow SDK
+\embed{2.5cm}{2.5cm}{2.5cm}{2.5cm}{BOSC2016_a28_Planemo.pdf}
+% Abstract 30 - Sample Size Does Matter: Scaling Up Analysis in Galaxy with Metagenomics
+\embed{3cm}{2cm}{3cm}{3cm}{BOSC2016_a30_Galaxy_metagenomics.pdf}
+% Abstract 1 - NextflowWorkbench: Reproducible and Reusable Workflows for Beginners and Experts
+\talkposter{4}
+\embed{2.5cm}{3cm}{2cm}{2.5cm}{BOSC2016_a01_NextflowWorkbench.pdf}
+% Abstract 18 - Promoting platform interoperability with portable bcbio workflows
+\embed{2.5cm}{3cm}{2.5cm}{2.5cm}{BOSC2016_a18_bcbio_workflows.pdf}
+
+
+\session{Standards and Interoperability}{Day One, 8 July 2016, 14:00 -- 15:30}{Session chair: Hilmar Lapp}
+
+
+% Abstract 22 - Enhancements to MISO: An open-source community-driven LIMS
+\embed{2.5cm}{4cm}{2.5cm}{2.5cm}{BOSC2016_a22_MISO.pdf}
+% Abstract 5 - Biothings APIs: high-performance bioentity-centric web services
+\talkposter{5}
+\embed{2.5cm}{4cm}{2.5cm}{2.5cm}{BOSC2016_a05_Biothings.pdf}
+% Abstract 34 - The Noctua Modeling Tool
+\talkposter{6}
+\embed{2.5cm}{1.8cm}{1cm}{1.15cm}{BOSC2016_a34_Noctua.pdf}
+% Abstract 35 - Processing phenotype data using Phenopackets-API and PXFTools
+\embed{2.5cm}{2cm}{2.5cm}{2.5cm}{BOSC2016_a35_Phenopackets.pdf}
+% Abstract 33 - The EDAM Ontology
+\talkposter{7}
+\embed{2.5cm}{2cm}{2.5cm}{2.5cm}{BOSC2016_a33_EDAM.pdf}
+% Abstract 25 - Towards traceable, scriptable, and efficient data distribution for next-generation genomics
+\talkposter{8}
+\embed{2.5cm}{5cm}{2.5cm}{2.5cm}{BOSC2016_a25_Duke.pdf}
+
+
+\session{Data Science}{Day Two, 9 July 2016, 10:45 -- 12:30}{Session chair: Heather Wiencko}
+
+% Abstract 8 - Mango: Data Exploration on Large Genomic Datasets
+\talkposter{9}
+\embed{2.5cm}{3cm}{2.5cm}{3cm}{BOSC2016_a08_Mango.pdf}
+% Abstract 23 - ADAM Enables Distributed Analyses Across Large Scale Genomic Datasets
+\embed{2.5cm}{2.5cm}{2.5cm}{3.5cm}{BOSC2016_a23_ADAM.pdf}
+% Abstract 16 - SUPERSMART - A Self-Updating platform for Estimating Rates of Speciation and Migration, Ages, and<br>Relationships of Taxa
+\embed{2.5cm}{2.5cm}{2.5cm}{5cm}{BOSC2016_a16_SUPERSMART.pdf}
+
+% TODO - Get Brad to fix the PDF to be one page? Cropping references...
+% Abstract 20 - Characterization of the small RNA transcriptome using the bcbio-nextgen python framework
+\embed{4.5cm}{3.5cm}{3.5cm}{4.5cm}{BOSC2016_a20_bcbio_RNA.pdf}
+% Abstract 2 - MetaR: simple, high-level languages for data analysis with the R ecosystem
+\talkposter{10}
+\embed{2.75cm}{2.5cm}{1.5cm}{2.5cm}{BOSC2016_a02_MetaR.pdf}
+% Abstract 14 - Development of NGSEP as an open-source comprehensive solution for analysis of high throughput sequencing data
+\talkposter{11}
+\embed{2.5cm}{2.5cm}{2.5cm}{2.5cm}{BOSC2016_a14_NGSEP.pdf}
+% Abstract 31 - GRNmap and GRNsight: open source software for dynamical systems modeling and visualization of medium-scale<br>gene regulatory networks
+\talkposter{12}
+\embed{2.5cm}{4cm}{2cm}{2.5cm}{BOSC2016_a31_GRNmap_GRNsight.pdf}
+
+\session{Developer tools and libraries}{Day Two, 9 July 2016, 14:00 -- 14:40}{Session chair: Chris Fields}
+
+% Abstract 19 - Biopython Project Update 2016
+\embed{2.5cm}{1.75cm}{1cm}{1.15cm}{BOSC2016_a19_Biopython.pdf}
+% Abstract 15 - Sequenceserver: a modern graphical user interface for custom BLAST databases
+\talkposter{13}
+\embed{1.75cm}{4cm}{2cm}{2cm}{BOSC2016_a15_Sequenceserver.pdf}
+% Abstract 36 - Linuxbrew and Homebrew-Science to Navigate the Software Dependency Labyrinth
+\talkposter{14}
+\embed{2.5cm}{4cm}{2.5cm}{2.5cm}{BOSC2016_a36_brew.pdf}
+% Abstract 11 - SnoVault and encodeD: A novel object-based storage system and applications to ENCODE metadata
+\talkposter{15}
+\embed{2.5cm}{4cm}{2.5cm}{2.5cm}{BOSC2016_a11_SnoVault_Encode.pdf}
+
+
+\session{Open Science and Reproducibility}{Day Two, 9 July 2016, 14:40 -- 15:30}{Session chair: Peter Cock}
+
+
+% Abstract 6 - State of the openSNP.org Union: Dockerizing, Crowdfunding \& Opening for Contributors
+\talkposter{16}
+\embed{2.5cm}{4cm}{2.5cm}{2.5cm}{BOSC2016_a06_openSNP.pdf}
+% Abstract 27 - The GenePattern Notebook Environment
+\talkposter{17}
+\embed{2.5cm}{3cm}{2.5cm}{2.5cm}{BOSC2016_a27_GenePattern.pdf}
+% Abstract 9 - Reproducibility in computationally intensive workflows with continuous analysis
+\embed{2.5cm}{2cm}{2.5cm}{2.5cm}{BOSC2016_a09_Continuous_Analysis.pdf}
+% Abstract 32 - Reproducible Research in the Cloud with the Refinery Platform
+\talkposter{18}
+\embed{2.5cm}{2cm}{2.5cm}{2.5cm}{BOSC2016_a32_Refinery.pdf}
+% Abstract 13 - ReportMD: Writing complex scientific reports in R
+\talkposter{19}
+\embed{2.5cm}{3cm}{2.5cm}{2.5cm}{BOSC2016_a13_ReportMD.pdf}
+
+
+\session{Late-Breaking Lightning Talks}{Day Two, 9 July 2016, 16:00 -- 17:00}{Session chair: Karsten Hokamp}
+
+
+% Abstract 45 - Apollo Genome Annotation Editor: Latest Updates, Including Galaxy Integration
+\talkposter{20}
+\embed{2.5cm}{4cm}{2.5cm}{2.5cm}{BOSC2016_a45_Apollo.pdf}
+% Abstract 42 - An invitation to the bioinformatics community to participate in the HUBzero open source release
+\talkposter{21}
+\embed{2.5cm}{2.5cm}{2.5cm}{2.5cm}{BOSC2016_a42_HUBzero.pdf}
+% Abstract 38 - PDB on steroids - compressive structural bioinformatics
+\talkposter{22}
+\embed{2.5cm}{2.5cm}{2.5cm}{2.5cm}{BOSC2016_a38_mmtf.pdf}
+% Abstract 39 - Puzzle: VCF/GEMINI interface for genetic disease analysis
+\talkposter{23}
+\embed{2cm}{4cm}{2cm}{2.0cm}{BOSC2016_a39_puzzle.pdf}
+% Abstract 43 - Modernization of the Cytoscape ecosystem
+\talkposter{24}
+\embed{2.5cm}{2.5cm}{2.5cm}{2.5cm}{BOSC2016_a43_Cytoscape.pdf}
+% Abstract 44 - Collaborative Software Development: Lessons from Open Source
+\embed{2.5cm}{4cm}{2cm}{2.5cm}{BOSC2016_a44_Mozilla.pdf}
+
+
+\session{Poster-only Abstracts}{Both Days, 10 \& 11 July 2016, 13:00 -- 14:00}{}
+
+%Have 24 doing talk and poster
+
+% Abstract 4 - Lightweight sample labeling, barcoding and tracking systems for the academic laboratory
+\onlyposter{25}
+\embed{2.5cm}{6cm}{2.5cm}{2.5cm}{BOSC2016_a04_CollOS.pdf}
+
+% Abstract 7 - Kronos: a workflow assembler for genome analytics and informatics
+\onlyposter{26}
+\embed{3cm}{2cm}{2cm}{2.5cm}{BOSC2016_a07_Kronos.pdf}
+
+% Abstract 12 - PhyPipe: an automated pipeline for phylogenetic reconstruction from multilocus sequences
+\onlyposter{27}
+\embed{2.5cm}{1.75cm}{2cm}{2.25cm}{BOSC2016_a12_PhyPip.pdf}
+
+% Abstract 37 - Skip the line and balance your work with vQ
+\onlyposter{28}
+\embed{2.5cm}{4cm}{2cm}{2.5cm}{BOSC2016_a37_vQ.pdf}
+
+% Abstract 40 - Using the Nextflow framework for reproducible in-silico omics analyses across clouds and clusters
+\onlyposter{29}
+\embed{2.5cm}{2.5cm}{2cm}{3.5cm}{BOSC2016_a40_Nextflow.pdf}
+
+% trim = left, bottom, right, top
+
+\end{document}
