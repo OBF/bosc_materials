@@ -6,8 +6,8 @@
 
 % Use the boxed version of the \embed command to guide trimming:
 % trim = left, bottom, right, top
-\newcommand{\embed}[5]{\begin{center}\fbox{\includegraphics[trim=#1 #2 #3 #4,clip,width=\textwidth]{#5}}\end{center}\clearpage}
-%\newcommand{\embed}[5]{\begin{center}\includegraphics[trim=#1 #2 #3 #4,clip,width=\textwidth]{#5}\end{center}\clearpage}
+%\newcommand{\embed}[5]{\begin{center}\fbox{\includegraphics[trim=#1 #2 #3 #4,clip,width=\textwidth]{#5}}\end{center}\clearpage}
+\newcommand{\embed}[5]{\begin{center}\includegraphics[trim=#1 #2 #3 #4,clip,width=\textwidth]{#5}\end{center}\clearpage}
 
 \newcommand{\talkposter}[1]{\centerline{\small\noindent This talk is accompanied by poster \##1.}}
 \newcommand{\onlyposter}[1]{\centerline{\small\noindent Poster \##1.}}
