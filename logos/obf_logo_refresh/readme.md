@@ -6,9 +6,9 @@
 -----
 ![](bosc-banner.png)
 -----
-![](obf_logo_refresh/bioinformatics-open-source-conference-square.png)
+![](bioinformatics-open-source-conference-square.png)
 -----
-![](obf_logo_refresh/bioinformatics-open-source-conference-banner.png)
+![](bioinformatics-open-source-conference-banner.png)
 -----
 ![](bosc-pear-square-white.png)
 -----
