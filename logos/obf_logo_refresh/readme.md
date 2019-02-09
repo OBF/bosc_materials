@@ -1,3 +1,5 @@
+Font used in all logos: Open Sans
+
 ![](obf-bosc-banner.png)
 -----
 ![](obf-bioinformatics-open-source-conference-banner.png)
@@ -13,3 +15,7 @@
 ![](bosc-pear-square-white.png)
 -----
 ![](bosc-pear-square-green.png)
+----
+![](bosc-pear-square-transparent.png)
+----
+![](pear-transparent.png)
