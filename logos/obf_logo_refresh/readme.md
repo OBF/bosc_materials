@@ -1,4 +1,9 @@
-Font used in all logos: Open Sans
+## Notes 
+
+- Font used in all logos: Open Sans
+- .gvdesign file extension opens in [Gravit Designer](https://www.designer.io/), a free vector editor. 
+
+## Image previews
 
 ![](obf-bosc-banner.png)
 -----
