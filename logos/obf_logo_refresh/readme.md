@@ -16,6 +16,6 @@ Font used in all logos: Open Sans
 -----
 ![](bosc-pear-square-green.png)
 ----
-![](bosc-pear-square-transparent.png)
+![](bosc-pear-transparent-square.png)
 ----
 ![](pear-transparent.png)
