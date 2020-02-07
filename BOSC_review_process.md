@@ -65,7 +65,7 @@ To be accepted (even for poster presentation), abstracts submitted to BOSC **mus
 4. **For returning projects: progress since last report at BOSC**: If you presented this project at a previous BOSC in any form (talk, demo, and/or poster), your abstract must describe progress since the last BOSC presentation.
 5. **Correctly formatted**: Abstracts must be in PDF format, are limited to one page (8.5x11” or A4) and should include the title, author name(s), open source license, and code or project URL. Accepted abstracts are published on the BOSC website as-is.
 
-If a reviewer determines that an abstract does not meet one or more of the requirements, they will note that on the review form and are not required to supply detailed comments on other aspects of the abstract.
+If a reviewer determines that an abstract does not meet one or more of the requirements, they will note that on the review form. In this case, the reviewer is not required to supply detailed comments on other aspects of the abstract.
 
 
 ### Additional criteria
