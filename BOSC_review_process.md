@@ -70,7 +70,7 @@ If a reviewer determines that an abstract does not meet one or more of the requi
 
 ### Additional criteria
 
-In addition to the abstract requirements listed above, reviewers in the past have also considered the following criteria to evaluate abstracts for a talk. Note that these are _not_ requirements for abstract acceptance, but are additional criteria on which abstracts may be judged. Abstracts that don’t meet these “nice to have” criteria are still likely to be offered posters, as long as they meet the non-optional requirements described earlier.
+In addition to the abstract requirements listed above, reviewers in the past have also considered the following criteria to evaluate abstracts for a talk. Note that these are _not_ requirements for abstract acceptance, but are additional criteria on which abstracts may be judged. Abstracts that don’t meet these additional criteria are still likely to be offered posters, as long as they meet the requirements described earlier.
 
 1. **Community impact**: Please describe how your work fits into the open source bioinformatics / open science ecosystem.  A summary of the current and/or projected community aspect of your project is very helpful.
 2. **Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology; you don’t need to be novel to get a talk at BOSC. If you can compare your approach with existing approaches, that’s a plus.
