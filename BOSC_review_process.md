@@ -2,7 +2,7 @@
 
 (Version 1.0, 2020-Feb-06)
 
-BOSC is run by volunteers--we couldn't do it without your help! We greatly appreciate your taking time from your busy life to volunteer as a BOSC reviewer! Please review these guidelines before signing up as a reviewer.
+BOSC is run by volunteers--we couldn't do it without your help! We greatly appreciate your taking time from your busy life to volunteer as a BOSC reviewer! To understand the process and so you can more effectively conduct your work, please review these guidelines before signing up as a reviewer.
 
 ## BOSC 2020
 
