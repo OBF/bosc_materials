@@ -62,7 +62,7 @@ To be accepted (even for poster presentation), abstracts submitted to BOSC **mus
 1. **Relevant**: Your abstract must describe how your work relates to some aspect of open source software, open science or open data applied to biological or biomedical science.
 2. **Available**: Your code / data / materials (e.g., documentation) must be available at the URL you list.
 3. **Open Content**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which must be included in the repository) and a URL for accessing your code or other content. For abstracts about non-software products or projects (for example, educational materials), these should also be made freely available with an appropriate open license. See [BOSC submission instructions](https://www.open-bio.org/events/bosc/submit/) for more information.
-4. **For returning projects: progress since last report at BOSC**: If you presented this project at a previous BOSC in any form (talk, demo, and/or poster), your abstract must describe progress since the last BOSC presentation.
+4. **Updated**: If you presented this project at a previous BOSC in any form (talk, demo, and/or poster), your abstract must describe progress since the last BOSC presentation.
 5. **Correctly formatted**: Abstracts must be in PDF format, are limited to one page (8.5x11” or A4) and should include the title, author name(s), open source license, and code or project URL. Accepted abstracts are published on the BOSC website as-is.
 
 If a reviewer determines that an abstract does not meet one or more of the requirements, they will note that on the review form. In this case, the reviewer is not required to supply detailed comments on other aspects of the abstract.
