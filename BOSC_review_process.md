@@ -28,10 +28,10 @@ The general timeline for BOSC reviewing is as follows (dates are still tentative
 *   Abstract reviews due: April 28
 *   Authors notified: May 12
 *   Late-breaking abstract submission opens: May 13
-*   Late-breaking abstract submission closes: June 5
-*   Late-breaking abstracts assigned to reviewers: June 6
-*   Late-breaking abstract reviews due: June 10
-*   Late-breaking authors notified: June 12
+*   Late-breaking abstract submission closes: May 29
+*   Late-breaking abstracts assigned to reviewers: May 30
+*   Late-breaking abstract reviews due: June 3
+*   Late-breaking authors notified: June 5
 *   **[BCC2020](https://bcc2020.github.io/): July 19-21, 2020** (plus optional training day July 18 and CollaborationFest July 22-23 and 24-25)
 
 
