@@ -62,7 +62,7 @@ To be accepted (even for poster presentation), abstracts submitted to BOSC **mus
 1. **Relevant**: Your abstract must describe how your work relates to some aspect of open source software, open science or open data applied to biological or biomedical science.
 2. **Available**: Your code / data / materials (e.g., documentation) must be available at the URL you list.
 3. **Open Content**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which must be included in the repository) and a URL for accessing your code or other content. For abstracts about non-software products or projects (for example, educational materials), these should also be made freely available with an appropriate open license. See [BOSC submission instructions](https://www.open-bio.org/events/bosc/submit/) for more information.
-4. **For returning projects: progress since last report at BOSC**: If you presented this project at a previous BOSC in any form (talk, demo, and/or poster), your abstract must describe progress since the last BOSC presentation.
+4. **Updated**: If you presented this project at a previous BOSC in any form (talk, demo, and/or poster), your abstract must describe progress since the last BOSC presentation.
 5. **Correctly formatted**: Abstracts must be in PDF format, are limited to one page (8.5x11” or A4) and should include the title, author name(s), open source license, and code or project URL. Accepted abstracts are published on the BOSC website as-is.
 
 If a reviewer determines that an abstract does not meet one or more of the requirements, they will note that on the review form. In this case, the reviewer is not required to supply detailed comments on other aspects of the abstract.
@@ -75,7 +75,7 @@ In addition to the abstract requirements listed above, reviewers in the past hav
 1. **Community impact**: Please describe how your work fits into the open source bioinformatics / open science ecosystem.  A summary of the current and/or projected community aspect of your project is very helpful.
 2. **Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology; you don’t need to be novel to get a talk at BOSC. If you can compare your approach with existing approaches, that’s a plus.
 3. **Examples**: We like abstracts that include an example of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data). 
-4. **Usable**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
+4. **Runnability**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
 
 
 ### Reviewer comments
