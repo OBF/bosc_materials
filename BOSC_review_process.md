@@ -75,7 +75,7 @@ In addition to the abstract requirements listed above, reviewers in the past hav
 1. **Community impact**: Please describe how your work fits into the open source bioinformatics / open science ecosystem.  A summary of the current and/or projected community aspect of your project is very helpful.
 2. **Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology; you don’t need to be novel to get a talk at BOSC. If you can compare your approach with existing approaches, that’s a plus.
 3. **Examples**: We like abstracts that include an example of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data). 
-4. **Usability**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
+4. **Runnability**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
 
 
 ### Reviewer comments
