@@ -18,20 +18,15 @@ All members of the BOSC review committee members must read and agree to follow t
 
 ## Timeline
 
-The general timeline for BOSC reviewing is as follows (dates are still tentative): 
-*   Official BOSC announcement with submission dates goes out: Feb 2020
-*   Invitations to reviewers sent: March 2020
-*   Abstract submission opens: March 2020
-*   Abstract submission (first round) closes: April 17
-*   Reviewers can bid on abstracts: April 17-18
-*   Abstracts assigned to reviewers: April 19
-*   Abstract reviews due: April 28
-*   Authors notified: May 12
-*   Late-breaking abstract submission opens: May 13
-*   Late-breaking abstract submission closes: May 29
-*   Late-breaking abstracts assigned to reviewers: May 30
-*   Late-breaking abstract reviews due: June 3
-*   Late-breaking authors notified: June 5
+The general timeline for BOSC reviewing is as follows (see https://www.open-bio.org/events/bosc/ for the latest info):  
+*   Abstract submission opens: April 1, 2020
+*   Invitations to reviewers sent: Early April 2020
+*   Abstract submission closes: April 30
+*   Reviewers can bid on abstracts: May 1-2
+*   Abstracts assigned to reviewers: May 3
+*   Abstract reviews due: May 13
+*   Authors notified: May 26
+*   Early registration ends: June 2
 *   **[BCC2020](https://bcc2020.github.io/): July 19-21, 2020** (plus optional training day July 18 and CollaborationFest July 22-23 and 24-25)
 
 
