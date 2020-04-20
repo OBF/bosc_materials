@@ -1,6 +1,6 @@
 # BOSC Review Process
 
-(Version 1.0, 2020-Feb-06)
+(Version 1.1, 2020-Apr-19)
 
 BOSC is run by volunteers--we couldn't do it without your help! We greatly appreciate your taking time from your busy life to volunteer as a BOSC reviewer! To understand the process and so you can more effectively conduct your work, please review these guidelines before signing up as a reviewer.
 
@@ -20,13 +20,13 @@ All members of the BOSC review committee members must read and agree to follow t
 
 The general timeline for BOSC reviewing is as follows (see https://www.open-bio.org/events/bosc/ for the latest info):  
 *   Abstract submission opens: April 1, 2020
-*   Invitations to reviewers sent: Early April 2020
-*   Abstract submission closes: April 30
-*   Reviewers can bid on abstracts: May 1-2
-*   Abstracts assigned to reviewers: May 3
-*   Abstract reviews due: May 13
-*   Authors notified: May 26
-*   Early registration ends: June 2
+*   Invitations to reviewers sent: Late April 2020
+*   Abstract submission closes: May 8
+*   Reviewers can bid on abstracts: May 9-10 (at 2pm PDT)
+*   Abstracts assigned to reviewers: May 10
+*   Abstract reviews due: May 19
+*   Authors notified: June 3
+*   Early registration ends: July 10
 *   **[BCC2020](https://bcc2020.github.io/): July 19-21, 2020** (plus optional training day July 18 and CollaborationFest July 22-23 and 24-25)
 
 
