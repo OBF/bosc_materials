@@ -49,6 +49,8 @@ Each reviewer will be assigned several abstracts to review (typically, 6-7 abstr
 
 An additional late-breaking abstract submission round is normally run shortly (1-2 months) prior to the conference. Abstracts accepted in the late round are normally limited to a lightning talk and/or poster presentation; they are not eligible for long talks. Submissions to this round can be new submissions or abstracts that were rejected in the first round and have been improved based on reviewers’ comments. These late-round abstracts undergo a similar process for review. 
 
+NOTE: BOSC 2020 will not have a late-breaking submission round. 2020 is not normal.
+
 
 ### Acceptance criteria
 
