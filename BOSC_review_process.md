@@ -22,12 +22,12 @@ The general timeline for BOSC reviewing is as follows (see https://www.open-bio.
 *   Abstract submission opens: April 1, 2020
 *   Invitations to reviewers sent: Late April 2020
 *   Abstract submission closes: May 8
-*   Reviewers can bid on abstracts: May 9-10 (at 2pm PDT)
+*   Reviewers can bid on abstracts: May 9-10 (bidding will close at 2pm PDT on May 10)
 *   Abstracts assigned to reviewers: May 10
-*   Abstract reviews due: May 19
-*   Authors notified: June 3
+*   Abstract reviews due: May 19 (end of the day anywhere in the world)
+*   Authors notified: June 6
 *   Early registration ends: July 10
-*   **[BCC2020](https://bcc2020.github.io/): July 19-21, 2020** (plus optional training day July 18 and CollaborationFest July 22-23 and 24-25)
+*   **[BCC2020](https://bcc2020.github.io/): July 19-21, 2020** (plus optional training July 17-18 and CollaborationFest July 22-23 and 24-25)
 
 
 ## Review Process
@@ -49,7 +49,7 @@ Each reviewer will be assigned several abstracts to review (typically, 6-7 abstr
 
 An additional late-breaking abstract submission round is normally run shortly (1-2 months) prior to the conference. Abstracts accepted in the late round are normally limited to a lightning talk and/or poster presentation; they are not eligible for long talks. Submissions to this round can be new submissions or abstracts that were rejected in the first round and have been improved based on reviewers’ comments. These late-round abstracts undergo a similar process for review. 
 
-NOTE: BOSC 2020 will not have a late-breaking submission round. 2020 is not normal.
+**NOTE: BOSC 2020 will not have a late submission round.** 2020 is not normal.
 
 
 ### Acceptance criteria
@@ -113,6 +113,5 @@ The reviewers’ ratings and detailed comments will be used by the BOSC chairs t
 We try to be liberal with poster acceptances for any abstract that shows some connection to open source (or open science), as long as it satisfies the five requirements mentioned above. Typically, talk spots are much more competitive, and we are usually not able to offer talks to all of the good abstracts we receive.
 
 All abstracts accepted for a long or lightning talk are automatically also eligible for poster presentation.
-
 
 <!-- Docs to Markdown version 1.0β17 -->
