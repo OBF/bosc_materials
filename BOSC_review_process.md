@@ -32,6 +32,9 @@ The general timeline for BOSC reviewing is as follows (see https://www.open-bio.
 
 ## Review Process
 
+### Confidentiality Policy
+
+Abstracts are considered as unpublished works from submission of the abstract until the conference and should be treated as confidential.  Therefore reviewers should not share or discuss abstracts (or specific details about the abstracts) with anyone else apart from members of the review committee without express permission of the abstract authors and the program and review chair(s).
 
 ### Bidding period
 
