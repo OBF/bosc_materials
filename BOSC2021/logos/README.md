@@ -6,8 +6,7 @@ Font used in all logos: SpaceGrotesk
 
 ## Image previews
 
-Color avatar (is there a way to specify size so it's not so big in the preview?)
-![](Avatar Colour.png)
+TODO: add image previews (my first attempt didn't work)
 
 -----
 ...
