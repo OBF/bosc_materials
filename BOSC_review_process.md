@@ -1,58 +1,61 @@
 # BOSC Review Process
 
-(Version 1.1, 2020-Apr-19)
+(Version 1.2, 2021-Apr-14)
 
 BOSC is run by volunteers--we couldn't do it without your help! We greatly appreciate your taking time from your busy life to volunteer as a BOSC reviewer! To understand the process and so you can more effectively conduct your work, please review these guidelines before signing up as a reviewer.
 
-## BOSC 2020
+## BOSC 2021
 
-In July 2020, BOSC will be part of the Bioinformatics Community Conference ([BCC2020](https://bcc2020.github.io/)).
-BCC2020 will include BOSC and GCC, each of which has its own review committee. This document applies only to BOSC.
+In July 2021, [BOSC](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB/ECCB 2021 online](https://www.iscb.org/ismbeccb2021).
+Each COSI has its own review committee. This document applies only to BOSC.
 
 ## Reviewer requirements
 
 BOSC reviewers participate in this process by invitation only. Reviewers are invited by the BOSC Organizing Committee. If you’d like to volunteer as a reviewer, please contact us at [bosc@open-bio.org](mailto:bosc@open-bio.org).
 
-All members of the BOSC review committee members must read and agree to follow the Conference’s Code of Conduct ([https://bcc2020.github.io/cod/](https://bcc2020.github.io/cod/)), as well as the review process outlined here. This is to ensure that the review process is fair and reliable, that all review requirements are applied consistently, and that reviewers understand abstract acceptance criteria and thus can constructively critique the submissions.
+All members of the BOSC review committee members must read and agree to follow the [ISMB/ECCB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct), as well as the review process outlined here.
+This is to ensure that the review process is fair and reliable, that all review requirements are applied consistently, and that reviewers understand abstract acceptance criteria and thus can constructively critique the submissions.
 
 
 ## Timeline
 
-The general timeline for BOSC reviewing is as follows (see https://www.open-bio.org/events/bosc/ for the latest info):  
-*   Abstract submission opens: April 1, 2020
-*   Invitations to reviewers sent: Late April 2020
-*   Abstract submission closes: May 8
-*   Reviewers can bid on abstracts: May 9-10 (bidding will close at 2pm PDT on May 10)
-*   Abstracts assigned to reviewers: May 10
-*   Abstract reviews due: May 19 (end of the day anywhere in the world)
-*   Authors notified: June 6
-*   Early registration ends: July 10
-*   **[BCC2020](https://bcc2020.github.io/): July 19-21, 2020** (plus optional training July 17-18 and CollaborationFest July 22-23 and 24-25)
+The general timeline for BOSC reviewing is as follows (for 2021 -- see https://www.open-bio.org/events/bosc/ for the latest info):  
+*   Abstract submission opens: February 2021
+*   Invitations to reviewers sent: Late April 2021
+*   Abstract submission closes: May 6, 2021
+*   Reviewers can bid on abstracts: May 6-8 (bidding will close at noon EDT on May 8)
+*   Abstracts assigned to reviewers: May 8
+*   Abstract reviews due: May 16 (end of the day anywhere in the world)
+*   Authors notified: May 27
+*   Late poster abstract submission closes: June 3
+*   Late poster notifications: June 10
+*   **[BOSC 2021](https://www.open-bio.org/events/bosc-2021/): July 29-30, 2021** (plus free CollaborationFest July 31 - August 1)
 
 
 ## Review Process
 
 ### Confidentiality Policy
 
-Abstracts are considered as unpublished works from submission of the abstract until the conference and should be treated as confidential.  Therefore reviewers should not share or discuss abstracts (or specific details about the abstracts) with anyone else apart from members of the review committee without express permission of the abstract authors and the program and review chair(s).
+Abstracts are considered as unpublished works from submission of the abstract until the conference and should be treated as confidential.
+Therefore, reviewers should not share or discuss abstracts (or specific details about the abstracts) with anyone except members of the review committee without express permission of the abstract authors and the BOSC chair(s).
 
 ### Bidding period
 
-Shortly after abstract submission closes, reviewers are given a chance  to ‘bid’ on abstracts (i.e., indicate whether they do or do not want to review specific abstracts). A reviewer can say “Yes, I’d like to review this” to abstracts that may be, but aren’t limited to, work in one of their areas of expertise. During the bidding process, reviewers can also indicate when they don’t have the right background or have potential conflicts of interest, such as prior work with the authors or competing interests. It is not always possible for us to assign abstracts to reviewers who bid “yes”. However, you will never be assigned to review an abstract for which you indicated a conflict. (In fact, if you mark an abstract as “conflict”, you will never be able to see the abstract again in EasyChair, so be careful!)
+Shortly after abstract submission closes, reviewers are given a chance  to ‘bid’ on abstracts (i.e., indicate whether they do or do not want to review specific abstracts). A reviewer can say “Yes, I’d like to review this” to abstracts that may be, but aren’t limited to, work in one of their areas of expertise.
+During the bidding process, reviewers can also indicate when they don’t have the right background or have potential conflicts of interest, such as prior work with the authors or competing interests.
+It is not always possible for us to assign abstracts to reviewers who bid “yes”. However, you will never be assigned to review an abstract for which you indicated a conflict. (In fact, if you mark an abstract as “conflict”, you will never be able to see the abstract again in EasyChair, so be careful!)
 
 
 ### Abstract assignments
 
 Each submitted abstract will be assigned to three reviewers. Sometimes, if an abstract is controversial (for example, reviewers disagree on its relevance to BOSC), it will go through an additional review before authors are notified. All submitted abstracts must pass through this review process.
 
-Each reviewer will be assigned several abstracts to review (typically, 6-7 abstracts per round).  Please check your assigned abstracts right away and let us know if there are any you can't review (for example, because of a conflict of interest with an author, or because you don’t feel you know enough about the topic to review the abstract fairly), so we can reassign those.
+Each reviewer will be assigned several abstracts to review (typically, 5-7 abstracts per round).  Please check your assigned abstracts right away and let us know if there are any you can't review (for example, because of a conflict of interest with an author, or because you don’t feel you know enough about the topic to review the abstract fairly), so we can reassign those.
 
 
 ### Late-breaking abstracts
 
-An additional late-breaking abstract submission round is normally run shortly (1-2 months) prior to the conference. Abstracts accepted in the late round are normally limited to a lightning talk and/or poster presentation; they are not eligible for long talks. Submissions to this round can be new submissions or abstracts that were rejected in the first round and have been improved based on reviewers’ comments. These late-round abstracts undergo a similar process for review. 
-
-**NOTE: BOSC 2020 will not have a late submission round.** 2020 is not normal.
+An additional late-breaking abstract submission round is normally run shortly (1-2 months) prior to the conference. Abstracts accepted in the late round are normally limited to poster presentation and sometimes for "late-breaking lightning talks"; they are not eligible for long talks. Submissions to this round can be new submissions or abstracts that were rejected in the first round and have been improved based on reviewers’ comments. These late-round abstracts undergo a similar process for review. 
 
 
 ### Acceptance criteria
@@ -63,9 +66,9 @@ To be accepted (even for poster presentation), abstracts submitted to BOSC **mus
 2. **Available**: Your code / data / materials (e.g., documentation) must be available at the URL you list.
 3. **Open Content**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which must be included in the repository) and a URL for accessing your code or other content. For abstracts about non-software products or projects (for example, educational materials), these should also be made freely available with an appropriate open license. See [BOSC submission instructions](https://www.open-bio.org/events/bosc/submit/) for more information.
 4. **Updated**: If you presented this project at a previous BOSC in any form (talk, demo, and/or poster), your abstract must describe progress since the last BOSC presentation.
-5. **Correctly formatted**: Abstracts must be in PDF format, are limited to one page (8.5x11” or A4) and should include the title, author name(s), open source license, and code or project URL. Accepted abstracts are published on the BOSC website as-is.
+5. **Correctly formatted**: Abstracts must be in PDF format, are limited to two 8.5x11” or A4 pages (for BOSC 2021) and should include the title, author name(s), open source license, and code or project URL. Accepted abstracts are published on the BOSC website as-is.
 
-If a reviewer determines that an abstract does not meet one or more of the requirements, they will note that on the review form. In this case, the reviewer is not required to supply detailed comments on other aspects of the abstract.
+If a reviewer determines that an abstract does not meet one or more of the requirements, they will note that on the review form. In that case, the reviewer is not required to supply detailed comments on other aspects of the abstract.
 
 
 ### Additional criteria
@@ -80,7 +83,7 @@ In addition to the abstract requirements listed above, reviewers in the past hav
 
 ### Reviewer comments
 
-New in 2020, we are adding a checklist of abstract requirements to the review form. The first step for reviewers is to check whether these criteria are satisfied by the abstract. Abstracts that fail to meet one or more of these requirements will be rejected, but the authors will be encouraged to revise and resubmit their abstracts in the next round.
+Starting in 2020, we added a checklist of abstract requirements to the review form. The first step for reviewers is to check whether these criteria are satisfied by the abstract. Abstracts that fail to meet one or more of these requirements will be rejected, but the authors will be encouraged to revise and resubmit their abstracts in the next round.
 
 Reviewers can make comments addressed to the abstract authors or add private comments that are only seen by the BOSC organizers. Comments to the organizers are a way to communicate any issues that may require discussion, and will not be distributed to the authors. These private comments can also be useful for reviewers to suggest  other possible factors that we should consider in our decision process--for example, if the reviewer has realized that there was a talk on this topic at a recent BOSC, or if the reviewer has additional concerns that are difficult to relate directly to the authors.
 
@@ -89,7 +92,7 @@ Reviewers can make comments addressed to the abstract authors or add private com
 
 The organizers use the scores from the reviewers to help decide (1) whether an abstract should be accepted or rejected, and (2) if accepted, whether it merits a long talk, a short (lightning) talk, or only a poster. (Abstracts submitted in the late round are not eligible for longer talks.) In the past, we asked reviewers to assign a single score to each abstract to indicate how high-quality they deemed the abstract, and whether they felt it was suitable for a long talk. We have realized that trying to make a single score serve dual purposes was causing confusion.
 
-This year, we are asking reviewers to assign two separate scores to each abstract:
+We are now asking reviewers to assign two separate scores to each abstract:
 
 1. A quality score (ranging from “reject” through “strong accept”)
 2. A score that indicates how suitable the abstract would be for a long talk (ranging from “only enough content for a lightning talk or poster” to “definitely merits a long talk”).
@@ -106,7 +109,8 @@ We encourage reviewers to sign reviews when possible, however we also acknowledg
 
 After reviewers have submitted their reviews, a sub-committee will evaluate all reviews to make sure they are appropriate, and to ensure all reviewer comments are in line with the conference Code of Conduct. If a decision is made that a review is non-compliant, we will ensure that the review is not included as part of the scoring process and is edited by the sub-committee before passing along any useful comments to the authors. Such decisions will be made on a case-by-case basis.
 
-If an author raises a complaint about a review or any communication during the review process, the review committee will evaluate the complaint to determine the proper course of action, after first notifying the author that the complaint has been received and is being looked into. At least two committee members will then be assigned to evaluate the complaint and whether it potentially violates the Code of Conduct. (Note that an OBF Code of Conduct is currently in development; in the meantime, the BCC code of conduct ([https://bcc2020.github.io/cod/](https://bcc2020.github.io/cod/)) will apply.) If the sub-committee concludes that there was a CoC violation, the committee will follow the recommended reporting path as noted in the Code of Conduct.  
+If an author raises a complaint about a review or any communication during the review process, the review committee will evaluate the complaint to determine the proper course of action, after first notifying the author that the complaint has been received and is being looked into. At least two committee members will then be assigned to evaluate the complaint and whether it potentially violates the Code of Conduct.
+(Note that the [OBF Code of Conduct](https://github.com/OBF/obf-docs/pull/78) is currently in development; for BOSC 2021, the [ISMB/ECCB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct) will apply.) If the sub-committee concludes that there was a CoC violation, the committee will follow the recommended reporting path as noted in the Code of Conduct.  
 
 
 ### Acceptance decisions
