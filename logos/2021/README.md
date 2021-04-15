@@ -6,7 +6,11 @@ Font used in all logos: SpaceGrotesk
 
 ## Image previews
 
-TODO: add image previews (my first attempt didn't work)
+<p>
+<img align="left" src="./BOSC2021-square-icon-color.png" width="240" hspace="50"/>
+<img align="left" src="./Colour Horizontal Full Name.png" width="350" hspace="50"/>
+</br>
+</p>
 
 -----
 ...
