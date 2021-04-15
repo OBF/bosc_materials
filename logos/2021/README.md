@@ -32,5 +32,3 @@ Font used in all logos: SpaceGrotesk
 </br>
 </p>
 
------
-...
