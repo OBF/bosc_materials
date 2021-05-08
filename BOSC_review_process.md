@@ -1,6 +1,6 @@
 # BOSC Review Process
 
-(Version 1.2, 2021-Apr-14)
+(Version 1.2.1, 2021-May-07)
 
 BOSC is run by volunteers--we couldn't do it without your help! We greatly appreciate your taking time from your busy life to volunteer as a BOSC reviewer! To understand the process and so you can more effectively conduct your work, please review these guidelines before signing up as a reviewer.
 
