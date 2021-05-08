@@ -23,8 +23,8 @@ The general timeline for BOSC reviewing is as follows (for 2021 -- see https://w
 *   Abstract submission opens: February 2021
 *   Invitations to reviewers sent: Late April 2021
 *   Abstract submission closes: May 6, 2021
-*   Reviewers can bid on abstracts: May 6-8 (bidding will close at noon EDT on May 8)
-*   Abstracts assigned to reviewers: May 8
+*   Reviewers can bid on abstracts: May 6-7 (bidding will close at 11:59pm EDT on May 7)
+*   Abstracts assigned to reviewers: May 7, 10pm PDT
 *   Abstract reviews due: May 16 (end of the day anywhere in the world)
 *   Authors notified: May 27
 *   Late poster abstract submission closes: June 3
