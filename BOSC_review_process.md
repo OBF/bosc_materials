@@ -1,35 +1,37 @@
 # BOSC Review Process
 
-(Version 1.2.1, 2021-May-07)
+(Version 1.3, 2022-Jan-10)
 
 BOSC is run by volunteers--we couldn't do it without your help! We greatly appreciate your taking time from your busy life to volunteer as a BOSC reviewer! To understand the process and so you can more effectively conduct your work, please review these guidelines before signing up as a reviewer.
 
-## BOSC 2021
+## BOSC 2022
 
-In July 2021, [BOSC](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB/ECCB 2021 online](https://www.iscb.org/ismbeccb2021).
+[BOSC 2022](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB 2022](https://www.iscb.org/ismb2022), which will be held in person in Madison, WI, as well as virtually.
 Each COSI has its own review committee. This document applies only to BOSC.
 
 ## Reviewer requirements
 
 BOSC reviewers participate in this process by invitation only. Reviewers are invited by the BOSC Organizing Committee. If you’d like to volunteer as a reviewer, please contact us at [bosc@open-bio.org](mailto:bosc@open-bio.org).
 
-All members of the BOSC review committee members must read and agree to follow the [ISMB/ECCB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct), as well as the review process outlined here.
+Since BOSC 2022 will be part of ISMB, all members of the BOSC review committee members must read and agree to follow the [ISMB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct), as well as the review process outlined here.
 This is to ensure that the review process is fair and reliable, that all review requirements are applied consistently, and that reviewers understand abstract acceptance criteria and thus can constructively critique the submissions.
 
 
 ## Timeline
 
-The general timeline for BOSC reviewing is as follows (for 2021 -- see https://www.open-bio.org/events/bosc/ for the latest info):  
-*   Abstract submission opens: February 2021
-*   Invitations to reviewers sent: Late April 2021
-*   Abstract submission closes: May 6, 2021
-*   Reviewers can bid on abstracts: May 6-7 (bidding will close at 11:59pm EDT on May 7)
-*   Abstracts assigned to reviewers: May 7, 10pm PDT
-*   Abstract reviews due: May 16 (end of the day anywhere in the world)
-*   Authors notified: May 27
-*   Late poster abstract submission closes: June 3
-*   Late poster notifications: June 10
-*   **[BOSC 2021](https://www.open-bio.org/events/bosc-2021/): July 29-30, 2021** (plus free CollaborationFest July 31 - August 1)
+The general timeline for BOSC reviewing is as follows (see https://www.open-bio.org/events/bosc/ for the latest info):  
+*   Abstract submission opens: January 24, 2022
+*   Invitations to reviewers sent: Late March or early April 2022
+*   Abstract submission closes: April 21, 2022
+*   Reviewers can bid on abstracts (this is optional): April 21-22 (bidding will close at 11:59pm EDT on April 22)
+*   Abstracts assigned to reviewers: April 23, 5pm PDT
+*   Abstract reviews due: May 11 (end of the day anywhere in the world)
+*   Authors notified: May 12
+*   Late poster abstract submission closes: May 19
+*   Late poster notifications: May 26
+*   [ISMB 2022](https://www.iscb.org/ismb2022): July 10-14, 2022
+*   **[BOSC 2022](https://www.open-bio.org/events/bosc-2022/): July 13-14, 2022** (last two days of ISMB)
+*   (Post-BOSC CollaborationFest TBD)
 
 
 ## Review Process
@@ -110,7 +112,7 @@ We encourage reviewers to sign reviews when possible, however we also acknowledg
 After reviewers have submitted their reviews, a sub-committee will evaluate all reviews to make sure they are appropriate, and to ensure all reviewer comments are in line with the conference Code of Conduct. If a decision is made that a review is non-compliant, we will ensure that the review is not included as part of the scoring process and is edited by the sub-committee before passing along any useful comments to the authors. Such decisions will be made on a case-by-case basis.
 
 If an author raises a complaint about a review or any communication during the review process, the review committee will evaluate the complaint to determine the proper course of action, after first notifying the author that the complaint has been received and is being looked into. At least two committee members will then be assigned to evaluate the complaint and whether it potentially violates the Code of Conduct.
-(Note that the [OBF Code of Conduct](https://github.com/OBF/obf-docs/pull/78) is currently in development; for BOSC 2021, the [ISMB/ECCB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct) will apply.) If the sub-committee concludes that there was a CoC violation, the committee will follow the recommended reporting path as noted in the Code of Conduct.  
+(Note that the [OBF Code of Conduct](https://github.com/OBF/obf-docs/pull/78) is currently in development; for BOSC 2022, the [ISMB/ECCB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct) will apply.) If the sub-committee concludes that there was a CoC violation, the committee will follow the recommended reporting path as noted in the Code of Conduct.  
 
 
 ### Acceptance decisions
