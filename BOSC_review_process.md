@@ -31,7 +31,7 @@ The general timeline for BOSC reviewing is as follows (see https://www.open-bio.
 *   Late poster notifications: May 26
 *   [ISMB 2022](https://www.iscb.org/ismb2022): July 10-14, 2022
 *   **[BOSC 2022](https://www.open-bio.org/events/bosc-2022/): July 13-14, 2022** (last two days of ISMB)
-*   (Post-BOSC CollaborationFest TBD)
+*   Post-BOSC [CollaborationFest](https://www.open-bio.org/events/bosc-2021/collaborationfest/) July 15-16 (Madison, WI, and online)
 
 
 ## Review Process
