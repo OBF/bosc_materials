@@ -25,7 +25,7 @@ The general timeline for BOSC reviewing is as follows (see https://www.open-bio.
 *   Abstract submission closes: April 21, 2022
 *   Reviewers can bid on abstracts (this is optional): April 21-22 (bidding will close at 11:59pm EDT on April 22)
 *   Abstracts assigned to reviewers: April 23, 5pm PDT
-*   Abstract reviews due: May 11 (end of the day anywhere in the world)
+*   Abstract reviews due: May 2 (end of the day anywhere in the world)
 *   Authors notified: May 12
 *   Late poster abstract submission closes: May 19
 *   Late poster notifications: May 26
