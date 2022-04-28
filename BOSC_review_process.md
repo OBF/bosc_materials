@@ -87,8 +87,7 @@ In addition to the abstract requirements listed above, reviewers in the past hav
 
 Starting in 2020, we added a checklist of abstract requirements to the review form. The first step for reviewers is to check whether these criteria are satisfied by the abstract. Abstracts that fail to meet one or more of these requirements will be rejected, but the authors will be encouraged to revise and resubmit their abstracts in the next round.
 
-Reviewers can make comments addressed to the abstract authors or add private comments that are only seen by the BOSC organizers. Comments to the organizers are a way to communicate any issues that may require discussion, and will not be distributed to the authors. These private comments can also be useful for reviewers to suggest  other possible factors that we should consider in our decision process--for example, if the reviewer has realized that there was a talk on this topic at a recent BOSC, or if the reviewer has additional concerns that are difficult to relate directly to the authors.
-
+All comments entered by reviewers are shared with the abstract authors except for those entered in the "Confidential remarks for the chair" field. These confidential remarks are a way to communicate privately to the BOSC Organizers any concerns the reviewer has about the abstract, source, license, or other issues.
 
 ### Scoring
 
