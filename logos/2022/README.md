@@ -2,7 +2,9 @@
 
 License: [Creative Commons Attribution 4.0 International Public License](LICENSE)
 
-Font used in all logos: SpaceGrotesk
+Original font used in all logos: SpaceGrotesk
+
+Modified from 2021 SVG versions using Adobe Illustrator
 
 ## Image previews
 
