@@ -52,6 +52,6 @@ MMT: Moni Munoz-Torres
 
 ***NOMINATION PROCESS AND TIMELINE 2023***
 
-1. Nominations will be open from **Feb 1, 2023 to Feb 8, 2023** via a form ([**LINK**](https://docs.google.com/forms/d/13DxXJsufZV63APAhlYaZ0304GsIyHgJNtvj2lEp5WZg/edit)) and any community member (including the Organizing Committee) can nominate people they think would make a good keynote speaker.
-2. A list of all nominations received will be made public from **Feb 10, 2023 to Feb 17, 2023** on the BOSC homepage ( **LINK** ). During this time members can make the Organizing Committee aware of any speakers who may violate the policy.
+1. Nominations will be open from **Feb 2, 2023 to Feb 9, 2023** via [an anonymous form](https://docs.google.com/forms/d/13DxXJsufZV63APAhlYaZ0304GsIyHgJNtvj2lEp5WZg/edit)) and any community member (including the Organizing Committee) can nominate people they think would make a good keynote speaker.
+2. A list of all nominations received will be made public from **Feb 10, 2023 to Feb 17, 2023** (the link will be added to the [BOSC home page](https://www.open-bio.org/events/bosc-2023/). During this time members can make the Organizing Committee aware of any speakers who may violate the policy.
 3. The Organizing Committee will draw on this list to extend invitations. Since we cannot know in advance which speakers might accept the invitation, we may have to go beyond the list of those nominated. In that case, we will not rerun this process, but community members will always be encouraged to inform the Organizing Committee if any speaker does not meet our standards.
