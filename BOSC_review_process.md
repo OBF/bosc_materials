@@ -1,38 +1,37 @@
 # BOSC Review Process
 
-(Version 1.3, 2022-Apr-26)
+(Version 1.4, 2023-04-03)
 
 BOSC is run by volunteers--we couldn't do it without your help! We greatly appreciate your taking time from your busy life to volunteer as a BOSC reviewer! To understand the process and so you can more effectively conduct your work, please review these guidelines before signing up as a reviewer.
 
-## BOSC 2022
+## BOSC 2023
 
-[BOSC 2022](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB 2022](https://www.iscb.org/ismb2022), which will be held in person in Madison, WI, as well as virtually.
+[BOSC 2023](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB/ECCB 2023](https://www.iscb.org/ismbeccb2023), which will be held in person in Lyon, France, as well as virtually.
 Each COSI has its own review committee. This document applies only to BOSC.
 
 ## Reviewer requirements
 
 BOSC reviewers participate in this process by invitation only. Reviewers are invited by the BOSC Organizing Committee. If you’d like to volunteer as a reviewer, please contact us at [bosc@open-bio.org](mailto:bosc@open-bio.org).
 
-Since BOSC 2022 will be part of ISMB, all members of the BOSC review committee members must read and agree to follow the [ISMB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct), as well as the review process outlined here.
+Since BOSC 2023 will be part of ISMB, all members of the BOSC review committee members must read and agree to follow the [ISMB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct), as well as the review process outlined here.
 This is to ensure that the review process is fair and reliable, that all review requirements are applied consistently, and that reviewers understand abstract acceptance criteria and thus can constructively critique the submissions.
 
 
 ## Timeline
 
 The general timeline for BOSC reviewing is as follows (see https://www.open-bio.org/events/bosc/ for the latest info):  
-*   Abstract submission opens: January 24, 2022
-*   Invitations to reviewers sent: Late March or early April 2022
-*   Abstract submission closes: April 21, 2022
-*   Reviewers can bid on abstracts (this is optional): April 21-22 (bidding will close at 11:59pm EDT on April 22)
-*   Abstracts assigned to reviewers: April 23, 5pm PDT
-*   Abstract reviews due: May 2 (end of the day anywhere in the world)
-*   Authors notified: May 12
-*   Late poster abstract submission closes: May 19
-*   Late poster notifications: May 26
-*   [ISMB 2022](https://www.iscb.org/ismb2022): July 10-14, 2022
-*   **[BOSC 2022](https://www.open-bio.org/events/bosc-2022/): July 13-14, 2022** (last two days of ISMB)
-*   Post-BOSC [CollaborationFest](https://www.open-bio.org/events/bosc-2021/collaborationfest/) July 15-16 (Madison, WI, and online)
-
+*   Abstract submission opens: January 2023
+*   Invitations to reviewers sent: Early April
+*   Abstract submission closes: April 20
+*   Reviewers can bid on abstracts (this is optional): April 20-21 (bidding will close at 9am PDT on April 22)
+*   Abstracts assigned to reviewers: April 22, 11am PDT
+*   Abstract reviews due: May 1 (end of the day anywhere in the world)
+*   Authors notified: May 11
+*   Late poster abstract submission closes: May 18
+*   Late poster notifications: May 25
+*   ISMB/ECCB 2023: July 23-27, 2023 (Lyon, France, and online)
+*   Pre-BOSC [CollaborationFest](https://www.open-bio.org/events/bosc-2023/obf-bosc-collaborationfest-2023/): July 22-23 (Lyon, France, and online)
+*   **[BOSC 2023](https://www.open-bio.org/events/bosc/): July 24-25, 2023** (first two days of ISMB)
 
 ## Review Process
 
