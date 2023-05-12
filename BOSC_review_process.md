@@ -7,7 +7,7 @@ BOSC is run by volunteers--we couldn't do it without your help! We greatly appre
 ## BOSC 2023
 
 [BOSC 2023](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB/ECCB 2023](https://www.iscb.org/ismbeccb2023), which will be held in person in Lyon, France, as well as virtually.
-Each COSI has its own review committee. This document applies only to BOSC.
+Each COSI has its own review committee and process. This document applies only to BOSC.
 
 ## Reviewer requirements
 
@@ -32,6 +32,8 @@ The general timeline for BOSC reviewing is as follows (see https://www.open-bio.
 *   ISMB/ECCB 2023: July 23-27, 2023 (Lyon, France, and online)
 *   Pre-BOSC [CollaborationFest](https://www.open-bio.org/events/bosc-2023/obf-bosc-collaborationfest-2023/): July 22-23 (Lyon, France, and online)
 *   **[BOSC 2023](https://www.open-bio.org/events/bosc/): July 24-25, 2023** (first two days of ISMB)
+
+In 2023, we offered an [Early Poster Acceptance round](https://www.open-bio.org/2023/03/09/bosc-early-poster-acceptance/): submissions made before March 31 received early review and notification of poster acceptance (with notification about talk acceptance, if a talk was requested, on May 11 in the regular review round).
 
 ## Review Process
 
@@ -64,10 +66,9 @@ An additional late-breaking abstract submission round is normally run shortly (1
 To be accepted (even for poster presentation), abstracts submitted to BOSC **must be**:
 
 1. **Relevant**: Your abstract must describe how your work relates to some aspect of open source software, open science or open data applied to biological or biomedical science.
-2. **Available**: Your code / data / materials (e.g., documentation) must be available at the URL you list.
+2. **Available**: Your code / data / materials (e.g., documentation) must be available **at the time of review** at the URL you list.
 3. **Open Content**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which must be included in the repository) and a URL for accessing your code or other content. For abstracts about non-software products or projects (for example, educational materials), these should also be made freely available with an appropriate open license. See [BOSC submission instructions](https://www.open-bio.org/events/bosc/submit/) for more information.
 4. **Updated**: If you presented this project at a previous BOSC in any form (talk, demo, and/or poster), your abstract must describe progress since the last BOSC presentation.
-5. **Correctly formatted**: Abstracts must be in PDF format, are limited to two 8.5x11” or A4 pages (for BOSC 2021) and should include the title, author name(s), open source license, and code or project URL. Accepted abstracts are published on the BOSC website as-is.
 
 If a reviewer determines that an abstract does not meet one or more of the requirements, they will note that on the review form. In that case, the reviewer is not required to supply detailed comments on other aspects of the abstract.
 
@@ -80,7 +81,7 @@ In addition to the abstract requirements listed above, reviewers in the past hav
 2. **Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology; you don’t need to be novel to get a talk at BOSC. If you can compare your approach with existing approaches, that’s a plus.
 3. **Examples**: We like abstracts that include an example of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data). 
 4. **Runnability**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
-
+5. **Correctly formatted**: Abstracts must be in PDF format, are limited to two 8.5x11” or A4 pages (for BOSC 2021) and should include the title, author name(s), open source license, and code or project URL. Accepted abstracts are published on the BOSC website as-is.
 
 ### Reviewer comments
 
