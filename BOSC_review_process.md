@@ -1,39 +1,38 @@
 # BOSC Review Process
 
-(Version 1.4, 2023-04-03)
+(Version 1.5, 2024-02-27)
 
-BOSC is run by volunteers--we couldn't do it without your help! We greatly appreciate your taking time from your busy life to volunteer as a BOSC reviewer! To understand the process and so you can more effectively conduct your work, please review these guidelines before signing up as a reviewer.
+BOSC is run by volunteers--we couldn't do it without your help! To understand the process and so you can more effectively conduct your work, please review these guidelines before signing up as a reviewer.
 
-## BOSC 2023
+## BOSC 2024
 
-[BOSC 2023](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB/ECCB 2023](https://www.iscb.org/ismbeccb2023), which will be held in person in Lyon, France, as well as virtually.
+[BOSC 2024](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB 2024](https://www.iscb.org/ismb2024), which will be held in person in Montréal, Canada, as well as virtually.
 Each COSI has its own review committee and process. This document applies only to BOSC.
 
 ## Reviewer requirements
 
 BOSC reviewers participate in this process by invitation only. Reviewers are invited by the BOSC Organizing Committee. If you’d like to volunteer as a reviewer, please contact us at [bosc@open-bio.org](mailto:bosc@open-bio.org).
 
-Since BOSC 2023 will be part of ISMB, all members of the BOSC review committee members must read and agree to follow the [ISMB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct), as well as the review process outlined here.
+Since BOSC 2024 will be part of ISMB, all members of the BOSC review committee members must read and agree to follow the [ISMB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct), as well as the review process outlined here.
 This is to ensure that the review process is fair and reliable, that all review requirements are applied consistently, and that reviewers understand abstract acceptance criteria and thus can constructively critique the submissions.
 
 
 ## Timeline
 
-The general timeline for BOSC reviewing is as follows (see https://www.open-bio.org/events/bosc/ for the latest info):  
-*   Abstract submission opens: January 2023
-*   Invitations to reviewers sent: Early April
-*   Abstract submission closes: April 20
-*   Reviewers can bid on abstracts (this is optional): April 20-21 (bidding will close at 9am PDT on April 22)
-*   Abstracts assigned to reviewers: April 22, 11am PDT
-*   Abstract reviews due: May 1 (end of the day anywhere in the world)
-*   Authors notified: May 11
-*   Late poster abstract submission closes: May 18
-*   Late poster notifications: May 25
-*   ISMB/ECCB 2023: July 23-27, 2023 (Lyon, France, and online)
-*   Pre-BOSC [CollaborationFest](https://www.open-bio.org/events/bosc-2023/obf-bosc-collaborationfest-2023/): July 22-23 (Lyon, France, and online)
-*   **[BOSC 2023](https://www.open-bio.org/events/bosc/): July 24-25, 2023** (first two days of ISMB)
-
-In 2023, we offered an [Early Poster Acceptance round](https://www.open-bio.org/2023/03/09/bosc-early-poster-acceptance/): submissions made before March 31 received early review and notification of poster acceptance (with notification about talk acceptance, if a talk was requested, on May 11 in the regular review round).
+The timeline for BOSC 2024 reviewing is as follows (see https://www.open-bio.org/events/bosc/ for the latest info):  
+*   Abstract submission opens: January 2024
+*   Invitations to reviewers sent: Late March
+*   ([Early Poster Acceptance](https://www.open-bio.org/2024/02/18/early-poster-acceptance-2024/) submission closes: March 21. These will be reviewed by members of the BOSC Organizing Committee.)
+*   Abstract submission closes: April 19
+*   Reviewers can bid on abstracts (this is optional): April 20-21 (bidding will close at 9pm PDT on April 21)
+*   Abstracts assigned to reviewers: April 22, 9am PDT
+*   **Abstract reviews due: May 3** (end of the day anywhere in the world)
+*   Authors notified: May 13
+*   Late poster abstract submission closes: May 20
+*   Late poster notifications: May 28
+*   ISMB2024: July 12-16, 2024 (Montréal, Canada, and online)
+*   **[BOSC 2024](https://www.open-bio.org/events/bosc/): July 15-16, 2024** (last two days of ISMB)
+*   Post-BOSC CollaborationFest: July 17-18 ((Montréal, Canada, and online)
 
 ## Review Process
 
@@ -56,9 +55,9 @@ Each submitted abstract will be assigned to three reviewers. Sometimes, if an ab
 Each reviewer will be assigned several abstracts to review (typically, 5-7 abstracts per round).  Please check your assigned abstracts right away and let us know if there are any you can't review (for example, because of a conflict of interest with an author, or because you don’t feel you know enough about the topic to review the abstract fairly), so we can reassign those.
 
 
-### Late-breaking abstracts
-
-An additional late-breaking abstract submission round is normally run shortly (1-2 months) prior to the conference. Abstracts accepted in the late round are normally limited to poster presentation and sometimes for "late-breaking lightning talks"; they are not eligible for long talks. Submissions to this round can be new submissions or abstracts that were rejected in the first round and have been improved based on reviewers’ comments. These late-round abstracts undergo a similar process for review. 
+### (Late-breaking abstracts - we are not doing this now, but keeping this section for historical accuracy)
+~~An additional late-breaking abstract submission round is normally run shortly (1-2 months) prior to the conference. Abstracts accepted in the late round are normally limited to poster presentation and sometimes for "late-breaking lightning talks"; they are not eligible for long talks.~~
+~~Submissions to this round can be new submissions or abstracts that were rejected in the first round and have been improved based on reviewers’ comments. These late-round abstracts undergo a similar process for review.~~
 
 
 ### Acceptance criteria
@@ -75,13 +74,14 @@ If a reviewer determines that an abstract does not meet one or more of the requi
 
 ### Additional criteria
 
-In addition to the abstract requirements listed above, reviewers in the past have also considered the following criteria to evaluate abstracts for a talk. Note that these are _not_ requirements for abstract acceptance, but are additional criteria on which abstracts may be judged. Abstracts that don’t meet these additional criteria are still likely to be offered posters, as long as they meet the requirements described earlier.
+In addition to the abstract requirements listed above, reviewers in the past have also considered the following criteria to evaluate abstracts for a talk. Note that these are _not_ requirements for abstract acceptance, but are additional criteria on which abstracts may be judged.
+Abstracts that don’t meet these additional criteria are still likely to be offered posters, as long as they meet the requirements described earlier.
 
 1. **Community impact**: Please describe how your work fits into the open source bioinformatics / open science ecosystem.  A summary of the current and/or projected community aspect of your project is very helpful.
 2. **Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology; you don’t need to be novel to get a talk at BOSC. If you can compare your approach with existing approaches, that’s a plus.
 3. **Examples**: We like abstracts that include an example of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data). 
 4. **Runnability**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
-5. **Correctly formatted**: Abstracts must be in PDF format, are limited to two 8.5x11” or A4 pages (for BOSC 2021) and should include the title, author name(s), open source license, and code or project URL. Accepted abstracts are published on the BOSC website as-is.
+5. **Correctly formatted**: Long abstracts must be in PDF format, are limited to two 8.5x11” or A4 pages and should include the title, author name(s), open source license, and code or project URL. Accepted abstracts are published on the BOSC website as-is.
 
 ### Reviewer comments
 
@@ -91,27 +91,30 @@ All comments entered by reviewers are shared with the abstract authors except fo
 
 ### Scoring
 
-The organizers use the scores from the reviewers to help decide (1) whether an abstract should be accepted or rejected, and (2) if accepted, whether it merits a long talk, a short (lightning) talk, or only a poster. (Abstracts submitted in the late round are not eligible for longer talks.) In the past, we asked reviewers to assign a single score to each abstract to indicate how high-quality they deemed the abstract, and whether they felt it was suitable for a long talk. We have realized that trying to make a single score serve dual purposes was causing confusion.
+The organizers use the scores from the reviewers to help decide (1) whether an abstract should be accepted or rejected, and (2) if accepted, whether it merits a long talk, a short (lightning) talk, or only a poster.
+In the past, we asked reviewers to assign a single score to each abstract to indicate how high-quality they deemed the abstract, and whether they felt it was suitable for a long talk. We have realized that trying to make a single score serve dual purposes was causing confusion.
 
 We are now asking reviewers to assign two separate scores to each abstract:
 
 1. A quality score (ranging from “reject” through “strong accept”)
 2. A score that indicates how suitable the abstract would be for a long talk (ranging from “only enough content for a lightning talk or poster” to “definitely merits a long talk”).
 
-Some abstracts may be of high quality, but they may cover only a small topic (for example, a tool to convert between two file formats) and thus may not earn a high “suitability for long talk” score.
+Some abstracts may be of high quality, but may cover only a small topic (for example, a tool to convert between two file formats) and thus may not earn a high “suitability for long talk” score.
 
 
 ### Signing reviews
 
-We encourage reviewers to sign reviews when possible, however we also acknowledge that choosing whether to sign a review may be challenging for some, particularly early-career reviewers who may worry about possible repercussions as a result of a negative review. We therefore leave the decision about whether or not to sign their reviews to the discretion of each reviewer.
+We encourage reviewers to sign reviews when possible; however, we also acknowledge that choosing whether to sign a review may be challenging for some, particularly early-career reviewers who may worry about possible repercussions as a result of a negative review. We therefore leave the decision about whether or not to sign their reviews to the discretion of each reviewer.
 
 
 ### Review of reviews
 
-After reviewers have submitted their reviews, a sub-committee will evaluate all reviews to make sure they are appropriate, and to ensure all reviewer comments are in line with the conference Code of Conduct. Refer to the [Review of Reviews SOP](https://docs.google.com/document/d/1HFbHD2K4CORRqHsqh5_yLea47XcujSSLUkydnSYsMnY/edit?usp=sharing) to learn more about the process and how the subcommittee is organized. If a decision is made that a review is non-compliant, we will ensure that the review is not included as part of the scoring process and is edited by the sub-committee before passing along any useful comments to the authors. Such decisions will be made on a case-by-case basis.
+After reviewers have submitted their reviews, a sub-committee will evaluate all reviews to make sure they are appropriate, and to ensure all reviewer comments are in line with the conference Code of Conduct. Please see the [Review of Reviews SOP](https://docs.google.com/document/d/1HFbHD2K4CORRqHsqh5_yLea47XcujSSLUkydnSYsMnY/edit) to learn more about the process and how the subcommittee is organized.
+If a decision is made that a review is non-compliant, we will ensure that the review is not included as part of the scoring process and is edited by the sub-committee before passing along any useful comments to the authors. Such decisions will be made on a case-by-case basis.
 
-If an author raises a complaint about a review or any communication during the review process, the review committee will evaluate the complaint to determine the proper course of action, after first notifying the author that the complaint has been received and is being looked into. At least two committee members will then be assigned to evaluate the complaint and whether it potentially violates the Code of Conduct.
-(Note that the [OBF Code of Conduct](https://github.com/OBF/obf-docs/blob/master/code-of-conduct/CODE_OF_CONDUCT.md) applies to the review process; for BOSC 2023 itself, the [ISMB/ECCB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct) will apply.)
+If an author raises a complaint about a review or any communication during the review process, the review committee will evaluate the complaint to determine the proper course of action, after first notifying the author that the complaint has been received and is being looked into.
+At least two committee members will then be assigned to evaluate the complaint and whether it potentially violates the Code of Conduct.
+(Note that the [OBF Code of Conduct](https://github.com/OBF/obf-docs/blob/master/code-of-conduct/CODE_OF_CONDUCT.md) applies to the review process; for BOSC itself, the [ISMB/ECCB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct) will apply.)
 
 
 ### Acceptance decisions
@@ -120,6 +123,7 @@ The reviewers’ ratings and detailed comments will be used by the BOSC chairs t
 
 We try to be liberal with poster acceptances for any abstract that shows some connection to open source (or open science), as long as it satisfies the five requirements mentioned above. Typically, talk spots are much more competitive, and we are usually not able to offer talks to all of the good abstracts we receive.
 
-All abstracts accepted for a long or lightning talk are automatically also eligible for poster presentation.
+New ISMB rule this year: a presenting author can only present ONE talk or poster. If authors want to present their work as both a talk and a poster, they have to do a separate poster submission with a different author.
+We will not need to review the same abstract twice (this may require some manual adjustments in the abstract review assignments).
 
 <!-- Docs to Markdown version 1.0β17 -->
