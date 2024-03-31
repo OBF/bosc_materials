@@ -21,18 +21,18 @@ This is to ensure that the review process is fair and reliable, that all review 
 
 The timeline for BOSC 2024 reviewing is as follows (see https://www.open-bio.org/events/bosc/ for the latest info):  
 *   Abstract submission opens: January 2024
-*   Invitations to reviewers sent: Late March
+*   Invitations to reviewers sent: April 3, 2024
 *   ([Early Poster Acceptance](https://www.open-bio.org/2024/02/18/early-poster-acceptance-2024/) submission closes: March 21. These will be reviewed by members of the BOSC Organizing Committee.)
-*   Abstract submission closes: April 19
-*   Reviewers can bid on abstracts (this is optional): April 20-21 (bidding will close at 9pm PDT on April 21)
-*   Abstracts assigned to reviewers: April 22, 9am PDT
-*   **Abstract reviews due: May 3** (end of the day anywhere in the world)
+*   Regular abstract submission closes: April 19
+*   Reviewers can bid on abstracts (this is optional): April 20-21 (bidding will close at 11am ET on April 21)
+*   Abstracts assigned to reviewers: April 22, 1pm ET
+*   **Abstract reviews due: May 1** (end of the day anywhere in the world)
 *   Authors notified: May 13
 *   Late poster abstract submission closes: May 20
 *   Late poster notifications: May 28
 *   ISMB2024: July 12-16, 2024 (Montréal, Canada, and online)
 *   **[BOSC 2024](https://www.open-bio.org/events/bosc/): July 15-16, 2024** (last two days of ISMB)
-*   Post-BOSC CollaborationFest: July 17-18 ((Montréal, Canada, and online)
+*   Post-BOSC CollaborationFest: July 17-18 (Montréal, Canada, and online)
 
 ## Review Process
 
