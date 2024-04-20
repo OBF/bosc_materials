@@ -81,7 +81,7 @@ Abstracts that don’t meet these additional criteria are still likely to be off
 2. **Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology; you don’t need to be novel to get a talk at BOSC. If you can compare your approach with existing approaches, that’s a plus.
 3. **Examples**: We like abstracts that include an example of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data). 
 4. **Runnability**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
-5. **Correctly formatted**: Long abstracts must be in PDF format, are limited to two 8.5x11” or A4 pages and should include the title, author name(s), open source license, and code or project URL. Accepted abstracts are published on the BOSC website as-is.
+5. **Correctly formatted**: Long abstracts must be in PDF format and are limited to two 8.5x11” or A4 pages. We want abstract PDFs to include the title, author name(s), open source license, and code or project URL; however, abstracts are not rejected because of missing metadata.
 
 ### Reviewer comments
 
