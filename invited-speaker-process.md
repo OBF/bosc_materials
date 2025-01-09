@@ -54,6 +54,6 @@ NH: Nomi Harris
 
 ***NOMINATION PROCESS AND TIMELINE 2025***
 
-1. Nominations will be open from **Jan 10, 2025 through Jan 16, 2025** via [an anonymous form](https://docs.google.com/forms/d/1zziZ1qQ3pGL-NUYIXrwLh4GXI4dKBMeJ-7EwTEyeuuc/edit) and any community member (including the Organizing Committee) can nominate people they think would make a good keynote speaker.
+1. Nominations will be open from **Jan 9, 2025 through Jan 16, 2025** via [an anonymous form](https://docs.google.com/forms/d/1zziZ1qQ3pGL-NUYIXrwLh4GXI4dKBMeJ-7EwTEyeuuc/edit) and any community member (including the Organizing Committee) can nominate people they think would make a good keynote speaker.
 2. A list of all nominations received will be made public from **Jan 17, 2025 through Jan 24, 2025** (the link will be added to the [BOSC home page](https://www.open-bio.org/events/bosc-2025/). During this time community members can make the Organizing Committee aware of any speakers who may violate the policy.
 3. The Organizing Committee will draw on the nomination list to extend invitations. Since we cannot know in advance which speakers might accept the invitation, we may have to go beyond the list of those nominated. In that case, we will not rerun this process, but community members will always be encouraged to inform the Organizing Committee if any speaker does not meet our standards.
