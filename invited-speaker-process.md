@@ -1,6 +1,6 @@
 ***BOSC Invited Speaker Rubric***
 
-**2023-01-31**
+**2025-01-17**
 
 This document is an ongoing attempt to provide transparency about how the BOSC organizing committee selects invited talks, including keynotes. The organizing committee is responsible for choosing these speakers, and seeks to invite prominent individuals and emerging leaders who are accomplished in their fields, and whose work is likely to be informative and of interest to the bioinformatics open source community.
 
