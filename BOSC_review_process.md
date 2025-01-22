@@ -4,35 +4,35 @@
 
 BOSC is run by volunteers--we couldn't do it without your help! To understand the process and so you can more effectively conduct your work, please review these guidelines before signing up as a reviewer.
 
-## BOSC 2024
+## BOSC 2025
 
-[BOSC 2024](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB 2024](https://www.iscb.org/ismb2024), which will be held in person in Montréal, Canada, as well as virtually.
+[BOSC 2025](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB 2025](https://www.iscb.org/ismbeccb2025/), which will be held in person in Montréal, Canada, as well as virtually.
 Each COSI has its own review committee and process. This document applies only to BOSC.
 
 ## Reviewer requirements
 
 BOSC reviewers participate in this process by invitation only. Reviewers are invited by the BOSC Organizing Committee. If you’d like to volunteer as a reviewer, please contact us at [bosc@open-bio.org](mailto:bosc@open-bio.org).
 
-Since BOSC 2024 will be part of ISMB, all members of the BOSC review committee members must read and agree to follow the [ISMB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct), as well as the review process outlined here.
+Since BOSC 2025 will be part of ISMB, all members of the BOSC review committee members must read and agree to follow the [ISMB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct), as well as the review process outlined here.
 This is to ensure that the review process is fair and reliable, that all review requirements are applied consistently, and that reviewers understand abstract acceptance criteria and thus can constructively critique the submissions.
 
 
 ## Timeline
 
-The timeline for BOSC 2024 reviewing is as follows (see https://www.open-bio.org/events/bosc/ for the latest info):  
-*   Abstract submission opens: January 2024
-*   Invitations to reviewers sent: April 3, 2024
-*   ([Early Poster Acceptance](https://www.open-bio.org/2024/02/18/early-poster-acceptance-2024/) submission closes: March 21. These will be reviewed by members of the BOSC Organizing Committee.)
-*   Regular abstract submission closes: April 19 (Anywhere on Earth)
-*   Reviewers can bid on abstracts (this is optional): April 20-21 (bidding will close at 12pm ET on April 21)
-*   Abstracts assigned to reviewers: April 21, 1pm ET
-*   **Abstract reviews due: May 1** (end of the day anywhere in the world)
-*   Authors notified: May 13
-*   Late poster abstract submission closes: May 20
-*   Late poster notifications: May 28
-*   ISMB2024: July 12-16, 2024 (Montréal, Canada, and online)
-*   **[BOSC 2024](https://www.open-bio.org/events/bosc/): July 15-16, 2024** (last two days of ISMB)
-*   Post-BOSC CollaborationFest: July 17-18 (Montréal, Canada, and online)
+The timeline for BOSC 2025 reviewing is as follows (see https://www.open-bio.org/events/bosc/ for the latest info):  
+*   Abstract submission opens: January 2025
+*   Invitations to reviewers sent: April 3?, 2025
+*   ([Early Poster Acceptance](https://www.open-bio.org/2024/02/18/early-poster-acceptance-2024/) submission closes: March 21?. These will be reviewed by members of the BOSC Organizing Committee.)
+*   Regular abstract submission closes: April 19? (Anywhere on Earth)
+*   Reviewers can bid on abstracts (this is optional): April 20-21? (bidding will close at 12pm ET on April 21?)
+*   Abstracts assigned to reviewers: April 21?, 1pm ET
+*   **Abstract reviews due: May 1?** (end of the day anywhere in the world)
+*   Authors notified: May 13?
+*   Late poster abstract submission closes: May 20?
+*   Late poster notifications: May 28?
+*   ISMB2025: July 20-24, 2025 (Liverpool, UK, and online)
+*   **[BOSC 2025](https://www.open-bio.org/events/bosc/): July 21-22, 2025** (first two days of ISMB)
+*   Post-BOSC CollaborationFest: July 23-24 (Liverpool, UK, and online)
 
 ## Review Process
 
