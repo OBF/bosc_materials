@@ -21,9 +21,9 @@ This is to ensure that the review process is fair and reliable, that all review 
 
 The timeline for BOSC 2025 reviewing is as follows (see https://www.open-bio.org/events/bosc/ for the latest info):  
 *   Abstract submission opens: January 2025
-*   Invitations to reviewers sent: April 2, 2025
+*   Invitations to reviewers sent: March 24, 2025
 *   ([Early Poster Acceptance](https://www.open-bio.org/2024/02/18/early-poster-acceptance-2024/) submission closes: March ??. These will be reviewed by members of the BOSC Organizing Committee.)
-*   Regular abstract submission closes: April 17 (Anywhere on Earth)
+*   **Regular abstract submission closes: April 17** (Anywhere on Earth)
 *   Reviewers can bid on abstracts (this is optional): April 17-19 (bidding will close at 12pm ET on April 19)
 *   Abstracts assigned to reviewers: April 19, 1pm ET
 *   **Abstract reviews due: April 30** (end of the day anywhere in the world)
@@ -32,7 +32,7 @@ The timeline for BOSC 2025 reviewing is as follows (see https://www.open-bio.org
 *   Late poster notifications: May 22
 *   ISMB/ECCB 2025: July 20-24, 2025 (Liverpool, UK, and online)
 *   **[BOSC 2025](https://www.open-bio.org/events/bosc/): July 21-22, 2025** (first two days of ISMB)
-*   ISMB CollaborationFest: July 19-20 (Liverpool, UK, and online)
+*   ISMB CollaborationFest: July 23-24 (Liverpool, UK, and online)
 
 ## Review Process
 
