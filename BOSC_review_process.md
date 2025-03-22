@@ -104,7 +104,15 @@ Some abstracts may be of high quality, but may cover only a small topic (for exa
 
 ### Signing reviews
 
-We encourage reviewers to sign reviews when possible; however, we also acknowledge that choosing whether to sign a review may be challenging for some, particularly early-career reviewers who may worry about possible repercussions as a result of a negative review. We therefore leave the decision about whether or not to sign their reviews to the discretion of each reviewer.
+We encourage reviewers to sign their reviews; however, we also acknowledge that choosing to sign a review may be challenging for some, particularly early-career reviewers who may worry about possible repercussions as a result of a negative review. We therefore leave the decision about whether or not to sign their reviews to the discretion of each reviewer.
+
+
+### Use of AI/LLMs in the review process
+
+We carefully choose reviewers based on their knowledge and experience in the realm of open source bioinformatics.
+We expect reviewers to write their own reviews, in their own words, based on their own knowledge and opinions of the abstracts that they are assigned to review.
+We ask reviewers NOT to use AI/LLMs (such as ChatGPT, Claude, perplexity.ai, etc.) to generate their reviews.
+We are ok with reviewers using AI to polish their comments (if they feel that is necessary) or to check that they didn't miss anything in their review.
 
 
 ### Review of reviews
