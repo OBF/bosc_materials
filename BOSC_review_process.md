@@ -1,6 +1,6 @@
 # BOSC Review Process
 
-(Version 1.7, 2025-03-24)
+(Version 1.7, 2025-04-12)
 
 BOSC is run by volunteers--we couldn't do it without your help! To understand the process and so you can more effectively conduct your work, please review these guidelines before signing up as a reviewer.
 
@@ -22,7 +22,7 @@ This is to ensure that the review process is fair and reliable, that all review 
 The timeline for BOSC 2025 reviewing is as follows (see https://www.open-bio.org/events/bosc/ for the latest info):  
 *   Abstract submission opens: January 2025
 *   Invitations to reviewers sent: March 24, 2025
-*   ([Early Poster Acceptance](https://www.open-bio.org/2024/02/18/early-poster-acceptance-2024/) submission closes: March ??. These will be reviewed by members of the BOSC Organizing Committee.)
+*   ([Early Poster Acceptance](https://www.open-bio.org/2024/02/18/early-poster-acceptance-2024/) If we do this, these early abstracts will be reviewed by members of the BOSC Organizing Committee.)
 *   **Regular abstract submission closes: April 17** (Anywhere on Earth)
 *   Reviewers can bid on abstracts (this is optional): April 17-19 (bidding will close at 12pm ET on April 19)
 *   Abstracts assigned to reviewers: April 19, 1pm ET
@@ -81,7 +81,7 @@ Abstracts that don’t meet these additional criteria are still likely to be off
 2. **Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology; you don’t need to be novel to get a talk at BOSC. If you can compare your approach with existing approaches, that’s a plus.
 3. **Examples**: We like abstracts that include an example of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data). 
 4. **Runnability**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
-5. **Correctly formatted**: Long abstracts must be in PDF format and are limited to two 8.5x11” or A4 pages. We want abstract PDFs to include the title, author name(s), open source license, and code or project URL; however, abstracts are not rejected because of missing metadata.
+5. **Correctly formatted**: Long abstracts must be in PDF format and are limited to two 8.5x11” or A4 pages. We like abstract PDFs to include the title, author name(s), open source license, and code or project URL; however, abstracts are not evaluated based on whether or not they include this information in the PDF. It is included in the submission metadata.
 
 ### Reviewer comments
 
@@ -91,7 +91,7 @@ All comments entered by reviewers are shared with the abstract authors except fo
 
 ### Scoring
 
-The organizers use the scores from the reviewers to help decide (1) whether an abstract should be accepted or rejected, and (2) if accepted, whether it merits a long talk, a short (lightning) talk, or only a poster.
+The organizers use the scores from the reviewers to help decide (1) whether an abstract should be accepted or rejected, and (2) if accepted, whether it merits a "long" (17 minute) talk, a short (lightning) talk, or only a poster.
 In the past, we asked reviewers to assign a single score to each abstract to indicate how high-quality they deemed the abstract, and whether they felt it was suitable for a long talk. We have realized that trying to make a single score serve dual purposes was causing confusion.
 
 We are now asking reviewers to assign two separate scores to each abstract:
@@ -132,6 +132,3 @@ The reviewers’ ratings and detailed comments will be used by the BOSC chairs t
 We try to be liberal with poster acceptances for any abstract that shows some connection to open source (or open science), as long as it satisfies the five requirements mentioned above. Typically, talk spots are much more competitive, and we are usually not able to offer talks to all of the good abstracts we receive.
 
 New ISMB rule this year: a presenting author can only present ONE talk or poster. If authors want to present their work as both a talk and a poster, they have to do a separate poster submission with a different author.
-We will not need to review the same abstract twice (this may require some manual adjustments in the abstract review assignments).
-
-<!-- Docs to Markdown version 1.0β17 -->
