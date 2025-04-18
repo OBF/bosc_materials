@@ -6,7 +6,7 @@ BOSC is run by volunteers--we couldn't do it without your help! To understand th
 
 ## BOSC 2025
 
-[BOSC 2025](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/), which will be held in person in Montréal, Canada, as well as virtually.
+[BOSC 2025](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/), which will be held in person in Liverpool, UK, as well as virtually.
 Each COSI has its own review committee and process. This document applies only to BOSC.
 
 ## Reviewer requirements
