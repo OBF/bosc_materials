@@ -51,3 +51,10 @@ MS: Malvika Sharan
 MMT: Moni Munoz-Torres
 
 NH: Nomi Harris
+
+NOMINATION PROCESS
+
+1. Nominations will be open on a published date via an anonymous form and any community member (including the Organizing Committee) can nominate people they think would make a good keynote speaker.
+2. A list of all nominations received will be made public and circulated to the community with a deadline for response. During this time community members can make the Organizing Committee aware of any speakers who may violate the policy.
+3. The Organizing Committee will draw on the nomination list to extend invitations. Since we cannot know in advance which speakers might accept the invitation, we may have to go beyond the list of those nominated. In that case, we will not rerun this process, but community members will always be encouraged to inform the Organizing Committee if any speaker does not meet our standards.
+
