@@ -1,38 +1,39 @@
 # BOSC Review Process
 
-(Version 1.7, 2025-04-12)
+(Version 1.8, 2026-02-01)
 
 BOSC is run by volunteers--we couldn't do it without your help! To understand the process and so you can more effectively conduct your work, please review these guidelines before signing up as a reviewer.
 
 ## BOSC 2025
 
-[BOSC 2025](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/), which will be held in person in Liverpool, UK, as well as virtually.
-Each COSI has its own review committee and process. This document applies only to BOSC.
+[BOSC 2026](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB 2026](https://www.iscb.org/ismb2026/), which will be held in person in Washington, DC, USA (with a remote participation option.
+ISMB has many COSIs. Each COSI has its own review committee and process. This document applies only to BOSC.
 
 ## Reviewer requirements
 
-BOSC reviewers participate in this process by invitation only. Reviewers are invited by the BOSC Organizing Committee. If you’d like to volunteer as a reviewer, please contact us at [bosc@open-bio.org](mailto:bosc@open-bio.org).
+BOSC reviewers participate in this process by invitation only. Reviewers are invited by the BOSC Organizing Committee. If you’d like to volunteer as a reviewer, please contact us at [bosc@open-bio.org](mailto:bosc@open-bio.org)
+and let us know (in your own words, not with AI) why you want to be a reviewer, and a few words about your experience reviewing abstracts or papers and your knowledge of open-source bioinformatics.
 
-Since BOSC 2025 will be part of ISMB, all members of the BOSC review committee members must read and agree to follow the [ISMB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct), as well as the review process outlined here.
+Since BOSC 2026 will be part of ISMB, all members of the BOSC review committee members must read and agree to follow the [ISMB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct), as well as the review process outlined here.
 This is to ensure that the review process is fair and reliable, that all review requirements are applied consistently, and that reviewers understand abstract acceptance criteria and thus can constructively critique the submissions.
 
 
 ## Timeline
 
-The timeline for BOSC 2025 reviewing is as follows (see https://www.open-bio.org/events/bosc/ for the latest info):  
-*   Abstract submission opens: January 2025
-*   Invitations to reviewers sent: March 24, 2025
+The timeline for BOSC 2026 reviewing is as follows (subject to change):  
+*   Abstract submission opens: January 2026
+*   Invitations to reviewers sent: some time in March 2026
 *   ([Early Poster Acceptance](https://www.open-bio.org/2024/02/18/early-poster-acceptance-2024/) If we do this, these early abstracts will be reviewed by members of the BOSC Organizing Committee.)
-*   **Regular abstract submission closes: April 17** (Anywhere on Earth)
-*   Reviewers can bid on abstracts (this is optional): April 17-19 (bidding will close at 12pm ET on April 19)
-*   Abstracts assigned to reviewers: April 19, 1pm ET
-*   **Abstract reviews due: April 30** (end of the day anywhere in the world)
-*   Authors notified: May 13
-*   Late poster abstract submission closes: May 15
-*   Late poster notifications: May 22
-*   ISMB/ECCB 2025: July 20-24, 2025 (Liverpool, UK, and online)
-*   **[BOSC 2025](https://www.open-bio.org/events/bosc/): July 21-22, 2025** (first two days of ISMB)
-*   ISMB CollaborationFest: July 23-24 (Liverpool, UK, and online)
+*   **Regular abstract submission closes: April 9** (Anywhere on Earth)
+*   Reviewers can bid on abstracts (this is optional): April 9-10 (bidding will close at 8pm ET on April 10)
+*   Abstracts assigned to reviewers: April 10, 11pm ET
+*   **Abstract reviews due: April 21** (end of the day anywhere in the world)
+*   Authors notified: May 5
+*   Late poster abstract submission closes: May 7
+*   Late poster notifications: May 14
+*   ISMB 2026: July 12-16, 2026 (Washington, DC, USA, and online)
+*   **[BOSC 2026](https://www.open-bio.org/events/bosc/): July 14-15, 2026** (second and third days of ISMB)
+*   CollaborationFest: probably July 16-17
 
 ## Review Process
 
@@ -43,8 +44,11 @@ Therefore, reviewers should not share or discuss abstracts (or specific details 
 
 ### Bidding period
 
-Shortly after abstract submission closes, reviewers are given a chance  to ‘bid’ on abstracts (i.e., indicate whether they do or do not want to review specific abstracts). A reviewer can say “Yes, I’d like to review this” to abstracts that may be, but aren’t limited to, work in one of their areas of expertise.
+Shortly after abstract submission closes, reviewers are given a chance  to ‘bid’ on abstracts (i.e., indicate whether they do or do not want to review specific abstracts).
+A reviewer can say “Yes, I’d like to review this” to abstracts that may be, but aren’t limited to, work in one of their areas of expertise.
+
 During the bidding process, reviewers can also indicate when they don’t have the right background or have potential conflicts of interest, such as prior work with the authors or competing interests.
+
 It is not always possible for us to assign abstracts to reviewers who bid “yes”. However, you will never be assigned to review an abstract for which you indicated a conflict. (In fact, if you mark an abstract as “conflict”, you will never be able to see the abstract again in EasyChair, so be careful!)
 
 
@@ -91,12 +95,11 @@ All comments entered by reviewers are shared with the abstract authors except fo
 
 ### Scoring
 
-The organizers use the scores from the reviewers to help decide (1) whether an abstract should be accepted or rejected, and (2) if accepted, whether it merits a "long" (17 minute) talk, a short (lightning) talk, or only a poster.
-In the past, we asked reviewers to assign a single score to each abstract to indicate how high-quality they deemed the abstract, and whether they felt it was suitable for a long talk. We have realized that trying to make a single score serve dual purposes was causing confusion.
+The organizers use the scores from the reviewers to help decide (1) whether an abstract should be accepted or rejected, and (2) if accepted, whether it merits a "long" (typically 15 minutes) talk, a short (lightning) talk, or only a poster.
 
-We are now asking reviewers to assign two separate scores to each abstract:
+Note that there are two scores that heavily influence whether an abstract is offered a long or short talk:
 
-1. A quality score (ranging from “reject” through “strong accept”)
+1. Quality score (ranging from “reject” through “strong accept”)
 2. A score that indicates how suitable the abstract would be for a long talk (ranging from “only enough content for a lightning talk or poster” to “definitely merits a long talk”).
 
 Some abstracts may be of high quality, but may cover only a small topic (for example, a tool to convert between two file formats) and thus may not earn a high “suitability for long talk” score.
@@ -131,4 +134,6 @@ The reviewers’ ratings and detailed comments will be used by the BOSC chairs t
 
 We try to be liberal with poster acceptances for any abstract that shows some connection to open source (or open science), as long as it satisfies the five requirements mentioned above. Typically, talk spots are much more competitive, and we are usually not able to offer talks to all of the good abstracts we receive.
 
-New ISMB rule this year: a presenting author can only present ONE talk or poster. If authors want to present their work as both a talk and a poster, they have to do a separate poster submission with a different author.
+Note that ISMB has a rule that a presenting author can only present ONE talk or poster. If authors want to present their work as both a talk and a poster, they have to do a separate poster submission with a different author.
+
+(Additionally, the same work cannot be presented in two different COSIs.)
