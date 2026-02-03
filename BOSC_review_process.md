@@ -4,9 +4,9 @@
 
 BOSC is run by volunteers--we couldn't do it without your help! To understand the process and so you can more effectively conduct your work, please review these guidelines before signing up as a reviewer.
 
-## BOSC 2025
+## BOSC 2026
 
-[BOSC 2026](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB 2026](https://www.iscb.org/ismb2026/), which will be held in person in Washington, DC, USA (with a remote participation option.
+[BOSC 2026](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB 2026](https://www.iscb.org/ismb2026/), which will be held in person in Washington, DC, USA (with a remote participation option).
 ISMB has many COSIs. Each COSI has its own review committee and process. This document applies only to BOSC.
 
 ## Reviewer requirements
@@ -14,7 +14,7 @@ ISMB has many COSIs. Each COSI has its own review committee and process. This do
 BOSC reviewers participate in this process by invitation only. Reviewers are invited by the BOSC Organizing Committee. If you’d like to volunteer as a reviewer, please contact us at [bosc@open-bio.org](mailto:bosc@open-bio.org)
 and let us know (in your own words, not with AI) why you want to be a reviewer, and a few words about your experience reviewing abstracts or papers and your knowledge of open-source bioinformatics.
 
-Since BOSC 2026 will be part of ISMB, all members of the BOSC review committee members must read and agree to follow the [ISMB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct), as well as the review process outlined here.
+Since BOSC 2026 will be part of ISMB, all members of the BOSC review committee members must read and agree to follow the [ISMB Code of Conduct](https://www.iscb.org/about-iscb/policy-statements-bylaws-and-legal-documents/iscb-a-safe-space-code-of-conduct), as well as the review process outlined here.
 This is to ensure that the review process is fair and reliable, that all review requirements are applied consistently, and that reviewers understand abstract acceptance criteria and thus can constructively critique the submissions.
 
 
