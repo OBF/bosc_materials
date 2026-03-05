@@ -1,8 +1,8 @@
 # BOSC Review Process
 
-(Version 1.8, 2026-02-01)
+(Version 1.9, 2026-03-04)
 
-BOSC is run by volunteers--we couldn't do it without your help! To understand the process and so you can more effectively conduct your work, please review these guidelines before signing up as a reviewer.
+BOSC is run by volunteers--we couldn't do it without your help! Please review these guidelines before signing up as a reviewer.
 
 ## BOSC 2026
 
@@ -12,7 +12,7 @@ ISMB has many COSIs. Each COSI has its own review committee and process. This do
 ## Reviewer requirements
 
 BOSC reviewers participate in this process by invitation only. Reviewers are invited by the BOSC Organizing Committee. If you’d like to volunteer as a reviewer, please contact us at [bosc@open-bio.org](mailto:bosc@open-bio.org)
-and let us know (in your own words, not with AI) why you want to be a reviewer, and a few words about your experience reviewing abstracts or papers and your knowledge of open-source bioinformatics.
+and let us know (in your own words, not with AI) why you want to be a reviewer, and tell us a bit about your experience reviewing abstracts or papers and your knowledge of open-source bioinformatics.
 
 Since BOSC 2026 will be part of ISMB, all members of the BOSC review committee members must read and agree to follow the [ISMB Code of Conduct](https://www.iscb.org/about-iscb/policy-statements-bylaws-and-legal-documents/iscb-a-safe-space-code-of-conduct), as well as the review process outlined here.
 This is to ensure that the review process is fair and reliable, that all review requirements are applied consistently, and that reviewers understand abstract acceptance criteria and thus can constructively critique the submissions.
@@ -25,8 +25,8 @@ The timeline for BOSC 2026 reviewing is as follows (subject to change):
 *   Invitations to reviewers sent: some time in March 2026
 *   ([Early Poster Acceptance](https://www.open-bio.org/2024/02/18/early-poster-acceptance-2024/) If we do this, these early abstracts will be reviewed by members of the BOSC Organizing Committee.)
 *   **Regular abstract submission closes: April 9** (Anywhere on Earth)
-*   Reviewers can bid on abstracts (this is optional): April 9-10 (bidding will close at 8pm ET on April 10)
-*   Abstracts assigned to reviewers: April 10, 11pm ET
+*   Reviewers can bid on abstracts (this is optional): April 9-10 (bidding will close at 11pm ET on April 10)
+*   Abstracts assigned to reviewers: April 10, 11:45pm ET
 *   **Abstract reviews due: April 21** (end of the day anywhere in the world)
 *   Authors notified: May 5
 *   Late poster abstract submission closes: May 7
@@ -56,7 +56,8 @@ It is not always possible for us to assign abstracts to reviewers who bid “yes
 
 Each submitted abstract will be assigned to three reviewers. Sometimes, if an abstract is controversial (for example, reviewers disagree on its relevance to BOSC), it will go through an additional review before authors are notified. All submitted abstracts must pass through this review process.
 
-Each reviewer will be assigned several abstracts to review (typically, 5-7 abstracts per round).  Please check your assigned abstracts right away and let us know if there are any you can't review (for example, because of a conflict of interest with an author, or because you don’t feel you know enough about the topic to review the abstract fairly), so we can reassign those.
+Each reviewer will be assigned several abstracts to review (typically, 5-7 abstracts per round). 
+Please check your assigned abstracts right away and let us know if there are any you can't review (for example, because of a conflict of interest with an author, or because you don’t feel you know enough about the topic to review the abstract fairly), so we can reassign those.
 
 
 ### (Late-breaking abstracts - we are not doing this now, but keeping this section for historical accuracy)
@@ -85,7 +86,7 @@ Abstracts that don’t meet these additional criteria are still likely to be off
 2. **Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology; you don’t need to be novel to get a talk at BOSC. If you can compare your approach with existing approaches, that’s a plus.
 3. **Examples**: We like abstracts that include an example of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data). 
 4. **Runnability**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
-5. **Correctly formatted**: Long abstracts must be in PDF format and are limited to two 8.5x11” or A4 pages. We like abstract PDFs to include the title, author name(s), open source license, and code or project URL; however, abstracts are not evaluated based on whether or not they include this information in the PDF. It is included in the submission metadata.
+
 
 ### Reviewer comments
 
@@ -114,7 +115,7 @@ We encourage reviewers to sign their reviews; however, we also acknowledge that 
 
 We carefully choose reviewers based on their knowledge and experience in the realm of open source bioinformatics.
 We require reviewers to write their own reviews, based on their own knowledge and opinions of the abstracts that they are assigned to review.
-We ask reviewers NOT to use AI/LLMs (such as ChatGPT, Claude, perplexity.ai, etc.) to generate their reviews.
+Reviewers must NOT use AI/LLMs (such as ChatGPT, Claude, perplexity.ai, etc.) to perform their reviews.
 We are ok with reviewers using AI to polish their comments (if they feel that is necessary) or to check that they didn't miss anything in their review.
 
 
@@ -125,15 +126,14 @@ If a decision is made that a review is non-compliant, we will ensure that the re
 
 If an author raises a complaint about a review or any communication during the review process, the review committee will evaluate the complaint to determine the proper course of action, after first notifying the author that the complaint has been received and is being looked into.
 At least two committee members will then be assigned to evaluate the complaint and whether it potentially violates the Code of Conduct.
-(Note that the [OBF Code of Conduct](https://github.com/OBF/obf-docs/blob/master/code-of-conduct/CODE_OF_CONDUCT.md) applies to the review process; for BOSC itself, the [ISMB/ECCB Code of Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-conduct) will apply.)
+(Note that the [OBF Code of Conduct](https://github.com/OBF/obf-docs/blob/master/code-of-conduct/CODE_OF_CONDUCT.md) applies to the review process; for BOSC itself, the [ISMB Code of Conduct](https://www.iscb.org/about-iscb/policy-statements-bylaws-and-legal-documents/iscb-a-safe-space-code-of-conduct) will apply.)
 
 
 ### Acceptance decisions
 
 The reviewers’ ratings and detailed comments will be used by the BOSC chairs to decide which abstracts to accept for long or short talks and/or posters. Your constructive comments are also very helpful to authors.
 
-We try to be liberal with poster acceptances for any abstract that shows some connection to open source (or open science), as long as it satisfies the five requirements mentioned above. Typically, talk spots are much more competitive, and we are usually not able to offer talks to all of the good abstracts we receive.
+We try to be liberal with poster acceptances for any abstract that shows some connection to open source (or open science), as long as it satisfies the requirements mentioned above (though we may have to adjust this policy as we are starting to see entirely AI-generated projects, not just AI-generated abstracts). 
+Talk spots are much more competitive than posters, and we are usually not able to offer talks to all of the good abstracts we receive.
 
-Note that ISMB has a rule that a presenting author can only present ONE talk or poster. If authors want to present their work as both a talk and a poster, they have to do a separate poster submission with a different author.
-
-(Additionally, the same work cannot be presented in two different COSIs.)
+Note that ISMB has a rule that a presenting author can only present ONE talk or poster. If authors want to present their work as both a talk and a poster, they have to do a separate poster submission with a different author. (Additionally, the same work cannot be presented in two different COSIs.)
