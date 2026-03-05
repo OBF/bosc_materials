@@ -133,7 +133,7 @@ At least two committee members will then be assigned to evaluate the complaint a
 
 The reviewers’ ratings and detailed comments will be used by the BOSC chairs to decide which abstracts to accept for long or short talks and/or posters. Your constructive comments are also very helpful to authors.
 
-We try to be liberal with poster acceptances for any abstract that shows some connection to open source (or open science), as long as it satisfies the requirements mentioned above (though we may have to adjust this policy as we are starting to see entirely AI-generated projects with vibe-coded, non-reusable code). 
+We try to be liberal with poster acceptances for any abstract that shows some connection to open source (or open science), as long as it satisfies the requirements mentioned above (though we may have to adjust this policy as we are starting to see entirely AI-generated projects, not just AI-generated abstracts). 
 Talk spots are much more competitive than posters, and we are usually not able to offer talks to all of the good abstracts we receive.
 
 Note that ISMB has a rule that a presenting author can only present ONE talk or poster. If authors want to present their work as both a talk and a poster, they have to do a separate poster submission with a different author. (Additionally, the same work cannot be presented in two different COSIs.)
