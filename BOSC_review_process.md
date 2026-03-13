@@ -87,7 +87,7 @@ Abstracts that don’t meet these additional criteria are still likely to be off
 3. **Examples**: We like abstracts that include an example of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data). 
 4. **Runnability**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
 5. **Suitability for a long talk**: This is not the same as quality. Some abstracts may be of high quality, but they may cover only a small topic (for example, a tool to convert between two file formats) and thus may work better as a short talk.
-6. **Human-generated**. Does the work (not just the abstract - the project itself) appear to be human-generated, or was it largely produced by generative AI? (We're ok with AI use - we just want to know!)
+6. **Human-generated**. Does the work (not just the abstract - the project itself) appear to be human-generated, or was it largely produced by generative AI? (This is to help evaluate the work, not an acceptance/rejection criterion.)
 
 
 ### Reviewer comments
