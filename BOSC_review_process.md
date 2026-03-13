@@ -86,6 +86,8 @@ Abstracts that don’t meet these additional criteria are still likely to be off
 2. **Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology; you don’t need to be novel to get a talk at BOSC. If you can compare your approach with existing approaches, that’s a plus.
 3. **Examples**: We like abstracts that include an example of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data). 
 4. **Runnability**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
+5. **Suitability for a long talk**: This is not the same as quality. Some abstracts may be of high quality, but they may cover only a small topic (for example, a tool to convert between two file formats) and thus may work better as a short talk.
+6. **Human-generated**. Does the work (not just the abstract - the project itself) appear to be human-generated, or was it largely produced by generative AI? (We're ok with AI use - we just want to know!)
 
 
 ### Reviewer comments
@@ -96,14 +98,12 @@ All comments entered by reviewers are shared with the abstract authors except fo
 
 ### Scoring
 
-The organizers use the scores from the reviewers to help decide (1) whether an abstract should be accepted or rejected, and (2) if accepted, whether it merits a "long" (typically 15 minutes) talk, a short (lightning) talk, or only a poster.
+The organizers use the scores from the reviewers to help decide (1) whether an abstract should be accepted or rejected; and (2) if accepted, whether it merits a "long" (typically 15 minutes) talk, a short (lightning) talk, or only a poster.
 
 Note that there are two scores that heavily influence whether an abstract is offered a long or short talk:
 
 1. Quality score (ranging from “reject” through “strong accept”)
-2. A score that indicates how suitable the abstract would be for a long talk (ranging from “only enough content for a lightning talk or poster” to “definitely merits a long talk”).
-
-Some abstracts may be of high quality, but may cover only a small topic (for example, a tool to convert between two file formats) and thus may not earn a high “suitability for long talk” score.
+2. Suitability for a long talk (ranging from “only enough content for a lightning talk or poster” to “definitely merits a long talk”).
 
 
 ### Signing reviews
@@ -136,4 +136,4 @@ The reviewers’ ratings and detailed comments will be used by the BOSC chairs t
 We try to be liberal with poster acceptances for any abstract that shows some connection to open source (or open science), as long as it satisfies the requirements mentioned above (though we may have to adjust this policy as we are starting to see entirely AI-generated projects, not just AI-generated abstracts). 
 Talk spots are much more competitive than posters, and we are usually not able to offer talks to all of the good abstracts we receive.
 
-Note that ISMB has a rule that a presenting author can only present ONE talk or poster. If authors want to present their work as both a talk and a poster, they have to do a separate poster submission with a different author. (Additionally, the same work cannot be presented in two different COSIs.)
+Note that ISMB has a rule that a presenting author can only present ONE talk or poster on the same topic. If authors want to present their work as both a talk and a poster, they have to do a separate poster submission with a different author. (Additionally, the same work cannot be presented in two different COSIs.)
