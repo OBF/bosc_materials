@@ -89,6 +89,7 @@ Abstracts that don’t meet these additional criteria are still likely to be off
 5. **Suitability for a long talk**: This is not the same as quality. Some abstracts may be of high quality, but they may cover only a small topic (for example, a tool to convert between two file formats) and thus may work better as a short talk.
 6. **Human-generated**. Does the work (not just the abstract - the project itself) appear to be human-generated, or was it largely produced by generative AI? (This is to help evaluate the work, not an acceptance/rejection criterion.)
 
+**Note:** Reviewers are requested to exercise caution and adhere to good software engineering practices when evaluating the '**Runnability**' criterion. They are expected to understand the code and commands they execute, proactively identifying and mitigating any potential security risks. In the case of any identified issues, reviewers are encouraged to clearly highlight and emphasize them in their review.
 
 ### Reviewer comments
 
