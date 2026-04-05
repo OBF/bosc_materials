@@ -1,17 +1,18 @@
 # BOSC Review Process
 
-(Version 1.9, 2026-03-04)
+(Version 1.10, 2026-04-05)
 
 BOSC is run by volunteers--we couldn't do it without your help! Please review these guidelines before signing up as a reviewer.
 
 ## BOSC 2026
 
 [BOSC 2026](https://www.open-bio.org/events/bosc/) will be a track (also called a Community of Special Interest, or COSI) of [ISMB 2026](https://www.iscb.org/ismb2026/), which will be held in person in Washington, DC, USA (with a remote participation option).
+
 ISMB has many COSIs. Each COSI has its own review committee and process. This document applies only to BOSC.
 
 ## Reviewer requirements
 
-BOSC reviewers participate in this process by invitation only. Reviewers are invited by the BOSC Organizing Committee. If you’d like to volunteer as a reviewer, please contact us at [bosc@open-bio.org](mailto:bosc@open-bio.org)
+BOSC reviewers participate in this process by invitation only. Reviewers are invited by the BOSC Organizing Committee. If you'd like to volunteer as a reviewer, please contact us at [bosc@open-bio.org](mailto:bosc@open-bio.org)
 and let us know (in your own words, not with AI) why you want to be a reviewer, and tell us a bit about your experience reviewing abstracts or papers and your knowledge of open-source bioinformatics.
 
 Since BOSC 2026 will be part of ISMB, all members of the BOSC review committee members must read and agree to follow the [ISMB Code of Conduct](https://www.iscb.org/about-iscb/policy-statements-bylaws-and-legal-documents/iscb-a-safe-space-code-of-conduct), as well as the review process outlined here.
@@ -44,12 +45,12 @@ Therefore, reviewers should not share or discuss abstracts (or specific details 
 
 ### Bidding period
 
-Shortly after abstract submission closes, reviewers are given a chance  to ‘bid’ on abstracts (i.e., indicate whether they do or do not want to review specific abstracts).
-A reviewer can say “Yes, I’d like to review this” to abstracts that may be, but aren’t limited to, work in one of their areas of expertise.
+Shortly after abstract submission closes, reviewers are given a chance  to 'bid' on abstracts (i.e., indicate whether they do or do not want to review specific abstracts).
+A reviewer can say "Yes, I'd like to review this" to abstracts that may be, but aren't limited to, work in one of their areas of expertise.
 
-During the bidding process, reviewers can also indicate when they don’t have the right background or have potential conflicts of interest, such as prior work with the authors or competing interests.
+During the bidding process, reviewers can also indicate when they don't have the right background or have potential conflicts of interest, such as prior work with the authors or competing interests.
 
-It is not always possible for us to assign abstracts to reviewers who bid “yes”. However, you will never be assigned to review an abstract for which you indicated a conflict. (In fact, if you mark an abstract as “conflict”, you will never be able to see the abstract again in EasyChair, so be careful!)
+It is not always possible for us to assign abstracts to reviewers who bid "yes". However, you will never be assigned to review an abstract for which you indicated a conflict. (In fact, if you mark an abstract as "conflict", you will never be able to see the abstract again in EasyChair, so be careful!)
 
 
 ### Abstract assignments
@@ -57,12 +58,12 @@ It is not always possible for us to assign abstracts to reviewers who bid “yes
 Each submitted abstract will be assigned to three reviewers. Sometimes, if an abstract is controversial (for example, reviewers disagree on its relevance to BOSC), it will go through an additional review before authors are notified. All submitted abstracts must pass through this review process.
 
 Each reviewer will be assigned several abstracts to review (typically, 5-7 abstracts per round). 
-Please check your assigned abstracts right away and let us know if there are any you can't review (for example, because of a conflict of interest with an author, or because you don’t feel you know enough about the topic to review the abstract fairly), so we can reassign those.
+Please check your assigned abstracts right away and let us know if there are any you can't review (for example, because of a conflict of interest with an author, or because you don't feel you know enough about the topic to review the abstract fairly), so we can reassign those.
 
 
 ### (Late-breaking abstracts - we are not doing this now, but keeping this section for historical accuracy)
 ~~An additional late-breaking abstract submission round is normally run shortly (1-2 months) prior to the conference. Abstracts accepted in the late round are normally limited to poster presentation and sometimes for "late-breaking lightning talks"; they are not eligible for long talks.~~
-~~Submissions to this round can be new submissions or abstracts that were rejected in the first round and have been improved based on reviewers’ comments. These late-round abstracts undergo a similar process for review.~~
+~~Submissions to this round can be new submissions or abstracts that were rejected in the first round and have been improved based on reviewers' comments. These late-round abstracts undergo a similar process for review.~~
 
 
 ### Acceptance criteria
@@ -71,41 +72,42 @@ To be accepted (even for poster presentation), abstracts submitted to BOSC **mus
 
 1. **Relevant**: Your abstract must describe how your work relates to some aspect of open source software, open science or open data applied to biological or biomedical science.
 2. **Available**: Your code / data / materials (e.g., documentation) must be available **from the time of review onwards** at the URL you list.
-3. **Open Content**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which must be included in the repository) and a URL for accessing your code or other content. For abstracts about non-software products or projects (for example, educational materials), these should also be made freely available with an appropriate open license. Please see the [BOSC submission instructions](https://www.open-bio.org/events/bosc/submit/) for more information.
-4. **Updated**: If you presented this project at a previous BOSC in any form (talk, demo, and/or poster), your abstract must describe progress since the last BOSC presentation.
+3. **Open**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which must be included in the repository) and a URL for accessing your code or other content. For abstracts about non-software products or projects (for example, educational materials), these should also be made freely available with an appropriate open license. Please see the [BOSC submission instructions](https://www.open-bio.org/events/bosc/submit/) for more information.
+4. **Fresh**: If you presented this project at a previous BOSC in any form (talk, demo, and/or poster), your abstract must describe progress since the last BOSC presentation. Please note: this field is now *optional* for reviewers; we are evaluating "freshness" in a pre-review step.
 
 If a reviewer determines that an abstract does not meet one or more of the requirements, they will note that on the review form. In that case, the reviewer is not required to supply detailed comments on other aspects of the abstract.
 
 
 ### Additional criteria
 
-In addition to the abstract requirements listed above, reviewers in the past have also considered the following criteria to evaluate abstracts for a talk. Note that these are _not_ requirements for abstract acceptance, but are additional criteria on which abstracts may be judged.
-Abstracts that don’t meet these additional criteria are still likely to be offered posters, as long as they meet the requirements described earlier.
+In addition to the abstract requirements listed above, reviewers also consider the following criteria when evaluating abstracts. Note that these are _not_ requirements for abstract acceptance, but are additional criteria on which abstracts may be judged.
+Abstracts that don't meet these additional criteria are still likely to be offered posters, as long as they meet the requirements described earlier.
 
-1. **Community impact**: Please describe how your work fits into the open source bioinformatics / open science ecosystem.  A summary of the current and/or projected community aspect of your project is very helpful.
-2. **Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology; you don’t need to be novel to get a talk at BOSC. If you can compare your approach with existing approaches, that’s a plus.
-3. **Examples**: We like abstracts that include an example of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data). 
-4. **Runnability**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
-5. **Suitability for a long talk**: This is not the same as quality. Some abstracts may be of high quality, but they may cover only a small topic (for example, a tool to convert between two file formats) and thus may work better as a short talk.
-6. **Human-generated**. Does the work (not just the abstract - the project itself) appear to be human-generated, or was it largely produced by generative AI? (This is to help evaluate the work, not an acceptance/rejection criterion.)
+1. **Community**: Please describe how your work fits into the open source bioinformatics / open science ecosystem.  A summary of the current and/or projected community aspect of your project is very helpful. We look for impact of the work in building or sustaining open source communities. Even if a project is new and doesn't yet have a community, there should be some sort of plan for building a community of users and/or developers.
+2. **Active**: Active repositories have more than one human contributor, have changes in the past year, and didn't start from scratch a few days ago. (This overlaps somewhat with the Community criterion above.)
+3. **AI use transparency**: Does the AI use in the project seem consistent with what the author declared in their AI use disclosure?
+4. **Novelty**: Innovative approaches are interesting to hear about, but it's fine to build on existing technology; you don't need to be novel to get a talk at BOSC. If you can compare your approach with existing approaches, that's a plus.
+5. **Example**: We like abstracts that include an example of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data). 
+6. **Usable**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use. (This field is optional for reviewers. We are experimenting with an AI approach to evalutaing whether a project can be downloaded, installed, and run.)
+7. **Suitability for a long talk**: This is not the same as quality. Some abstracts may be of high quality, but they may cover only a small topic (for example, a tool to convert between two file formats) and thus may work better as a short talk.
 
-**Note:** Reviewers are requested to exercise caution and adhere to good software engineering practices when evaluating the '**Runnability**' criterion. They are expected to understand the code and commands they execute, proactively identifying and mitigating any potential security risks. In the case of any identified issues, reviewers are encouraged to clearly highlight and emphasize them in their review.
+**Note:** Reviewers are requested to exercise caution and adhere to good software engineering practices if they choose to evaluate the optional '**Usable**' criterion. They are expected to understand the code and commands they execute, proactively identifying and mitigating any potential security risks. In the case of any identified issues, reviewers are encouraged to clearly highlight and emphasize them in their review.
+
+<!-- ### Submission fields -->
+
+<!-- In addition to the abstract text, authors are asked to fill in the following BOSC-specific fields when submitting: -->
+
+<!-- - **Open Source License**: The name of the open source or open content license under which the work is released. -->
+<!-- - **Link to source code or content**: The URL where the source code or other content can be found (e.g., a GitHub repository). -->
+<!-- - **AI use disclosure**: Authors are asked to describe how they used generative AI tools in their research, including (but not limited to) streamlining initial research, assisting in software development, refining evaluations, and polishing abstracts. Submissions that do not appropriately acknowledge AI use may be rejected. -->
 
 ### Reviewer comments
-
-Starting in 2020, we added a checklist of abstract requirements to the review form. The first step for reviewers is to check whether these criteria are satisfied by the abstract. Abstracts that fail to meet one or more of these requirements will be rejected, but the authors will be encouraged to revise and resubmit their abstracts in the next round.
 
 All comments entered by reviewers are shared with the abstract authors except for those entered in the "Confidential remarks for the chair" field. These confidential remarks are a way to communicate privately to the BOSC Organizers any concerns the reviewer has about the abstract, source, license, or other issues.
 
 ### Scoring
 
-The organizers use the scores from the reviewers to help decide (1) whether an abstract should be accepted or rejected; and (2) if accepted, whether it merits a "long" (typically 15 minutes) talk, a short (lightning) talk, or only a poster.
-
-Note that there are two scores that heavily influence whether an abstract is offered a long or short talk:
-
-1. Quality score (ranging from “reject” through “strong accept”)
-2. Suitability for a long talk (ranging from “only enough content for a lightning talk or poster” to “definitely merits a long talk”).
-
+The organizers use the scores from the reviewers to help decide (1) whether an abstract should be accepted or rejected; and (2) if accepted, whether it merits a "long" (typically 15 minutes) talk, a short (lightning) talk, or a poster.
 
 ### Signing reviews
 
@@ -116,8 +118,9 @@ We encourage reviewers to sign their reviews; however, we also acknowledge that 
 
 We carefully choose reviewers based on their knowledge and experience in the realm of open source bioinformatics.
 We require reviewers to write their own reviews, based on their own knowledge and opinions of the abstracts that they are assigned to review.
-Reviewers must NOT use AI/LLMs (such as ChatGPT, Claude, perplexity.ai, etc.) to perform their reviews.
+**Reviewers must NOT use AI/LLMs (such as ChatGPT, Claude, perplexity.ai, etc.) to perform their reviews**.
 We are ok with reviewers using AI to polish their comments (if they feel that is necessary) or to check that they didn't miss anything in their review.
+Reviewers will be asked on the review form whether they used AI to polish their reviews.
 
 
 ### Review of reviews
@@ -132,9 +135,9 @@ At least two committee members will then be assigned to evaluate the complaint a
 
 ### Acceptance decisions
 
-The reviewers’ ratings and detailed comments will be used by the BOSC chairs to decide which abstracts to accept for long or short talks and/or posters. Your constructive comments are also very helpful to authors.
+The reviewers' ratings and detailed comments will be used by the BOSC chairs to decide which abstracts to accept for long or short talks and/or posters. Your constructive comments are also very helpful to authors.
 
-We try to be liberal with poster acceptances for any abstract that shows some connection to open source (or open science), as long as it satisfies the requirements mentioned above (though we may have to adjust this policy as we are starting to see entirely AI-generated projects, not just AI-generated abstracts). 
+We try to be liberal with poster acceptances for any abstract that shows a clear connection to open source (or open science), as long as it satisfies the requirements mentioned above.
 Talk spots are much more competitive than posters, and we are usually not able to offer talks to all of the good abstracts we receive.
 
 Note that ISMB has a rule that a presenting author can only present ONE talk or poster on the same topic. If authors want to present their work as both a talk and a poster, they have to do a separate poster submission with a different author. (Additionally, the same work cannot be presented in two different COSIs.)
