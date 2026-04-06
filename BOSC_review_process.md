@@ -23,18 +23,18 @@ This is to ensure that the review process is fair and reliable, that all review 
 
 The timeline for BOSC 2026 reviewing is as follows (subject to change):  
 *   Abstract submission opens: January 2026
-*   Invitations to reviewers sent: some time in March 2026
+*   Invitations to reviewers sent: March 2026
 *   ([Early Poster Acceptance](https://www.open-bio.org/2024/02/18/early-poster-acceptance-2024/) If we do this, these early abstracts will be reviewed by members of the BOSC Organizing Committee.)
-*   **Regular abstract submission closes: April 9** (Anywhere on Earth)
+*   **Regular abstract submission closes: April 9** (end of the day Anywhere on Earth)
 *   Reviewers can bid on abstracts (this is optional): April 9-10 (bidding will close at 11pm ET on April 10)
-*   Abstracts assigned to reviewers: April 10, 11:45pm ET
-*   **Abstract reviews due: April 21** (end of the day anywhere in the world)
+*   Abstracts assigned to reviewers: April 11, 1am ET
+*   **Abstract reviews due: April 21** (end of the day Anywhere on Earth)
 *   Authors notified: May 5
 *   Late poster abstract submission closes: May 7
 *   Late poster notifications: May 14
 *   ISMB 2026: July 12-16, 2026 (Washington, DC, USA, and online)
-*   **[BOSC 2026](https://www.open-bio.org/events/bosc/): July 14-15, 2026** (second and third days of ISMB)
-*   CollaborationFest: probably July 16-17
+*   **[BOSC 2026](https://www.open-bio.org/events/bosc/): July 14-15, 2026** (second and third full days of ISMB)
+*   CollaborationFest: July 17-18, Washington DC
 
 ## Review Process
 
